@@ -1,0 +1,174 @@
+review_text,statement,justification,label
+"बंपी, बलजीत, ओमकार और ईशिता ने मुंबई और दिल्ली की टिपिकल खूबियों-खामियों को दिलचस्प रंग-रूप प्रदान किए हैं
+",बंपी बलजीथ ओंकार और इशिता का मुबाई और दिल्ली शहरों के बारे में बहुत दिलचस्प दृष्टिकोण है,"The perspectives of the characters was not mentioned in the film, so the statement is not-given.",not-given
+"बंपी, बलजीत, ओमकार और ईशिता ने मुंबई और दिल्ली की टिपिकल खूबियों-खामियों को दिलचस्प रंग-रूप प्रदान किए हैं
+","बंपी, बलजीत, ओंकार और इशिता ने मुंबई और दिल्ली को बहुत दिलचस्प तरीके से प्रस्तुत किया है।","The review aligns with the statement, so the statement is true.",TRUE
+"बंपी, बलजीत, ओमकार और ईशिता ने मुंबई और दिल्ली की टिपिकल खूबियों-खामियों को दिलचस्प रंग-रूप प्रदान किए हैं
+","बंपी, बलजीत, ओंकार और इशिता ने मुंबई और दिल्ली शहरों का बहुत विस्तार से वर्णन किया है",Nowhere in the review does it say that they describe the cities. So the statement is not-given.,not-given
+"बंपी, बलजीत, ओमकार और ईशिता ने मुंबई और दिल्ली की टिपिकल खूबियों-खामियों को दिलचस्प रंग-रूप प्रदान किए हैं
+","बंपी, बलजीत, ओमकार और इशिता मुंबई और दिल्ली को बहुत खराब शहर मानते हैं।","As per the review, the characters have given pros and cons, which means they definitely didn't consider the cities to be very bad. So the statement is false.",FALSE
+"बैकग्राउंड स्कोर की मदद व कैमरे के एरियल शॉट ने उसे और निखारा है
+",फिल्म के दृश्य अच्छे ढंग से निर्देशित किये गये हैं,"The review mentions the use of aerial shots which improved the film, so it is true that the scene are well-directed.",TRUE
+"बैकग्राउंड स्कोर की मदद व कैमरे के एरियल शॉट ने उसे और निखारा है
+",फिल्म में इस्तेमाल किया गया कैमरा महंगा है,Nothing about the technical aspects or the pricingo of the camera used for shooting the film is mentioned in the review. So the statement is not-given.,not-given
+"बैकग्राउंड स्कोर की मदद व कैमरे के एरियल शॉट ने उसे और निखारा है
+",फिल्म के पीछे अच्छा कैमरा वर्क देखने को मिलता है,"The review mentions the use of aerial shots which improved the film, so it is true that the film comes with some good camera work.",TRUE
+"बैकग्राउंड स्कोर की मदद व कैमरे के एरियल शॉट ने उसे और निखारा है
+",योजनाबद्ध कैमरा शॉट्स का फिल्म की दिशा पर कोई प्रभाव नहीं पड़ा,"The review specifies that the use of aerial shots enhanced the movie which means there is definitely some impact of camera shots on the film, so this statement is false.",FALSE
+मनीष ने अपने किरकार को बखूबी निभाया है,"दर्शक को लगता है की अभिनेत्री को उसकी पात्र से मेल झोल नहीं था। 
+",The user does not state anything about the actress,not-given
+मनीष ने अपने किरदार को बखूबी निभाया है,"दर्शक को लगता है की अभिनेता ने अच्छा काम किया है इस मूवी मे। 
+",The user does state that the actor has doe a good job,TRUE
+मनीष ने अपने किरदार को बखूबी निभाया है,"दर्शक को लगता है की मनीष का एक्टिंग अच्छा नहीं था। 
+ ",The user liked the acting of the actor,FALSE
+मनीष ने अपने किरदार को बखूबी निभाया है,दर्शक को लगता है की मनीष ने अपने किरदार को बखूबी निभाया ह।,The user states that he liked the acting of the actor who is manish,TRUE
+"मराठी मानुष के चरित्र को उन्होंने बखूबी निभाया है
+",मराठी मानुष चरित्र के बारे में अभिनेता का दृष्टिकोण घटिया है,"The statement is contratry to the review, so the statement is false.",FALSE
+"मराठी मानुष के चरित्र को उन्होंने बखूबी निभाया है
+",मराठी मानुष के किरदार में अभिनेता का अभिनय बढ़िया है,"The statement aligns with the review, so the statement is true.",TRUE
+"मराठी मानुष के चरित्र को उन्होंने बखूबी निभाया है
+",मराठी मानुष चरित्र ख़राब तरीके से लिखा गया है,"Nothing about the quality of the movie character itself was mentioned in the movie, so the statement is not-given.",not-given
+"मराठी मानुष के चरित्र को उन्होंने बखूबी निभाया है
+",अभिनेता का प्रदर्शन मराठी मानुष चरित्र में गहराई दिखाता है,"Nothing about whether the character possessed depth or if it was a plain character was mentioned in the review, so the statement is not-given.",not-given
+"मल्टीप्लेक्स के दर्शकों को मजा भी आएगा
+",इस फिल्म में गाना अच्छा ह। ,The user does not mention anuthing about the songs in this statement,not-given
+"मल्टीप्लेक्स के दर्शकों को मजा भी आएगा
+","मल्टीप्लेक्स के दर्शकों को इस फिल्म का अनुभव सुखद लगेगा।
+",The viewer does mention that the multiplex audiences will enjoy this film/,TRUE
+"मल्टीप्लेक्स के दर्शकों को मजा भी आएगा
+","मल्टीप्लेक्स के दर्शक इस फिल्म को पसंद नहीं करेंगे।
+",The user states that multiplex audiences will like the film which is the opposite of this sentence,FALSE
+"मल्टीप्लेक्स के दर्शकों को मजा भी आएगा
+","इस फिल्म के कारण मल्टीप्लेक्स में टिकट की बिक्री बढ़ी है।
+",The viewer doesnot mention anything about the ticket sales in the statement.,not-given
+"मिकी वाइरस पूरी तरह से मनीष पॉल की फिल्म है और फिल्म में उनकी इमेज के हिसाब से ही दृश्य और स्थितियां रची गई थीं
+",दर्शक को लगता है की मनीष पॉल का मूवी ये नहीं है। ,The user only states that the movie is Manish paul's indeed,FALSE
+"मिकी वाइरस पूरी तरह से मनीष पॉल की फिल्म है और फिल्म में उनकी इमेज के हिसाब से ही दृश्य और स्थितियां रची गई थीं
+",दर्शक को ये फिल्म में धिकाये जगहों पसंद आय।  ,With the tone of the user it looks like the user liked the locations.,TRUE
+"मिकी वाइरस पूरी तरह से मनीष पॉल की फिल्म है और फिल्म में उनकी इमेज के हिसाब से ही दृश्य और स्थितियां रची गई थीं
+",दर्शक को लगता है की इस मूवी में दिखाए गए जगहों अच्छे है हीरो के अनुपूरण किया है।  ,The user states that the locations suited the actors's character.,TRUE
+"मिकी वाइरस पूरी तरह से मनीष पॉल की फिल्म है और फिल्म में उनकी इमेज के हिसाब से ही दृश्य और स्थितियां रची गई थीं
+",दर्शक को लगता है की इस चलचित्र में अभिनेत्री के हिसाब से लोकेशन चुना गया ह।,The user doesn't state anything about the actress of the movie,not-given
+"यहां कृति सैनन और सुशांत सिंह राजपूत दोनों की तारीफ करनी होगी कि उन्‍होंने बेहिचक सायरा और शिव के किरदारों को निभाया है
+",सायरा के किरदार में कृति सेनन का अभिनय अच्छा नहीं है,"The review said both the actors have to be praised, so it is false that Kriti Sanon's acting is not good because she wouldn't be praised ideally if her acting was up to the mark.",FALSE
+"यहां कृति सैनन और सुशांत सिंह राजपूत दोनों की तारीफ करनी होगी कि उन्‍होंने बेहिचक सायरा और शिव के किरदारों को निभाया है
+",कृति सेनन और सुशांत सिंह राजपूत ने अपनी भूमिकाएं निभाने में अच्छा काम किया है,"Both the actors were praised in the review, so the statement is true.",TRUE
+"यहां कृति सैनन और सुशांत सिंह राजपूत दोनों की तारीफ करनी होगी कि उन्‍होंने बेहिचक सायरा और शिव के किरदारों को निभाया है
+",कृति सेनन और सुशांत सिंह राजपूत को सायरा और शिव की भूमिका में संघर्ष करना पड़ा,Nothing about the struggles of the actors in the movie was mentioned. So the statement is not-given.,not-given
+"यहां कृति सैनन और सुशांत सिंह राजपूत दोनों की तारीफ करनी होगी कि उन्‍होंने बेहिचक सायरा और शिव के किरदारों को निभाया है
+",कृति सेनन और सुशांत सिंह राजपूत ने अपने किरदारों को बखूबी निभाया।,"The statement aligns with the review, so the statement is true.",TRUE
+"रोहित शेट्टी की फिल्मों में उदास रंग नहीं होते
+","रोहित शेट्टी की फिल्मों में हमेशा उज्ज्वल और जीवंत रंगों का इस्तेमाल होता है।
+",The user does say that Rohit Shetty's films always use bright and vibrant colors.,TRUE
+"रोहित शेट्टी की फिल्मों में उदास रंग नहीं होते
+",रोहित शेट्टी की फिल्मों में हमेशा उदासी रहता है। ,The user does not say anything about the movie being sad,not-given
+"रोहित शेट्टी की फिल्मों में उदास रंग नहीं होते
+","रोहित शेट्टी की फिल्मों में अक्सर उदास रंगों का प्रयोग होता है
+",The user does not say about Rohit Shetty's films often use somber colors but says the opposite,FALSE
+"रोहित शेट्टी की फिल्मों में उदास रंग नहीं होते
+","रोहित शेट्टी ने उज्ज्वल रंगों का चयन दर्शकों की मांग के आधार पर किया है।
+",The user does not say anything about Rohit Shetty choosing bright colors based on the demands of the audience.,not-given
+"वे अपनी भाव-भंगिमाओं से फिल्‍म के कथ्‍य को प्रभावशाली बनाते हैं
+",अभिनेता ने भावनाओं को अच्छे विधान में दर्शाया है,"Since expressions are one way of portraying emotions, it can be inferred that the actor portrayed the emotions well. So the statement is true.",TRUE
+"वे अपनी भाव-भंगिमाओं से फिल्‍म के कथ्‍य को प्रभावशाली बनाते हैं
+",अभिनेता बॉलीवुड में एक प्रसिद्ध व्यक्ति हैं,"Nothing about the reputation of the actor was mentioned in the review, so the statement is not-given.",not-given
+"वे अपनी भाव-भंगिमाओं से फिल्‍म के कथ्‍य को प्रभावशाली बनाते हैं
+",इस फिल्म के लिए अभिनेता ने अपने अभिनय को बेहतर बनाया है,Nothing about his previous acting skills was mentioned in the skills to infer if he specifically improved for this film neither was it directly mentioned that he improved for this film. So the statement is not-given.,not-given
+"वे अपनी भाव-भंगिमाओं से फिल्‍म के कथ्‍य को प्रभावशाली बनाते हैं
+",दर्शकों पर फ़िल्म का कोई असर नहीं पड़ा,"The review says that the story of the film turned powerful with the ecpressions of the actor, so it can be assumed that to same extent it may have impacted the audience. So the statement is false,",FALSE
+"वे सीमित दृश्यों में भी अपनी प्रतिभा जाहिर कर देते हैं
+",उपयोगकर्ता को लगता है की थोड़े से स्क्रीन टाइम में भी उनका जलवा बरकरार रहता है।,The user does feel that even with limited time on screen his screen presence was lit.,TRUE
+"वे सीमित दृश्यों में भी अपनी प्रतिभा जाहिर कर देते हैं
+",दर्शक को लगता है की वे अपनी क्षमता सिर्फ लंबे दृश्यों में ही दिखा पाते हैं।,The user states that his presence even with limited time on screen was very good which is the opposite of this statement,FALSE
+"वे सीमित दृश्यों में भी अपनी प्रतिभा जाहिर कर देते हैं
+",दर्शक को लगता है की उनकी कॉमेडी टाइमिंग लाजवाब है।,the user does not state about his commedy timing,not-given
+"वे सीमित दृश्यों में भी अपनी प्रतिभा जाहिर कर देते हैं
+",थोड़े से समय में भी उनका शोभा कायम रहता है।,The user does state that the performance of the actor was good even with limited time on screen,TRUE
+"वे हर भाव के दृश्यों में नैचुरल लगते हैं
+",उनका अपने भाव को प्रदर्शन करने की तरीका प्राकृतिक लगता है।,The user does state that the acting was quite natural when it came to emotions,TRUE
+"वे हर भाव के दृश्यों में नैचुरल लगते हैं
+",वे किसी भी दृश्य में स्वाभाविक नहीं लगते हैं।,The user says that the acting was natural which is completely opposite to the statement given,FALSE
+"वे हर भाव के दृश्यों में नैचुरल लगते हैं
+",उनका अभिनय अन्य कलाकारों से बेहतर है।,The user does not state anything abot any other actor,not-given
+"वे हर भाव के दृश्यों में नैचुरल लगते हैं
+",वे विभिन्न भावों को सहजता से अभिव्यक्त करते हैं।,The user satates that the acting was natural which means that he depicted them with simplicity that it looked so naturel.,TRUE
+"शुटु के किरदार में विक्रांत मैसी प्रभावित करते हैं
+",शुटु के रूप में विक्रांत मैसी का अभिनय शानदार है,"The review aligns with the statement, so the statement is true.",TRUE
+"शुटु के किरदार में विक्रांत मैसी प्रभावित करते हैं
+",विक्रांत मैसी का शुतु का किरदार एक अमिट छाप छोड़ता है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"शुटु के किरदार में विक्रांत मैसी प्रभावित करते हैं
+",शुटु की भूमिका में विक्रांत मैसी का अभिनय भूलने योग्य है,"The statement is contratry to the review, so the statement is false.",FALSE
+"शुटु के किरदार में विक्रांत मैसी प्रभावित करते हैं
+",शुटु के रूप में विक्रांत मैसी अच्छा प्रदर्शन करने में असफल रहे है,"The statement is contratry to the review, so the statement is false.",FALSE
+"शूजीत सरकार ने इस फिल्म में सीमित रेंज के अभिनेता की क्षमताओं का सुंदर इस्तेमाल किया है
+","शूजीत सरकार ने अभिनेता की सीमित क्षमताओं का बहुत ही कुशलता से इस्तेमाल किया है।
+",The user does say that Soojit Sirkar has skillfully utilized the actor's capabilities.,TRUE
+"शूजीत सरकार ने इस फिल्म में सीमित रेंज के अभिनेता की क्षमताओं का सुंदर इस्तेमाल किया है
+","इस फिल्म में, शूजीत सरकार ने भहुत ही अच्छे तरीके से अभिनेताओं के इमोशंस को दिखाया ह। 
+",The user does say that Soojit Sarkar has done a good job in the film,TRUE
+"शूजीत सरकार ने इस फिल्म में सीमित रेंज के अभिनेता की क्षमताओं का सुंदर इस्तेमाल किया है
+",शूजीत सरकार ने अभिनेता की सीमित क्षमताओं का प्रयोग करने में गलती की।,The viewer states the opposite of Soojit Sirkar making a mistake in utilizing the actor's limited capabilities.,FALSE
+"शूजीत सरकार ने इस फिल्म में सीमित रेंज के अभिनेता की क्षमताओं का सुंदर इस्तेमाल किया है
+","शूजीत सरकार ने इस फिल्म के लिए अभिनेता को विशेष प्रशिक्षण दिया था।
+",The viewer soes not state anything about Soojit Sirkar guving the actor special training for this film.,not-given
+"संगीत निर्देशकों ने संगीत की मधुरता और रवानी बनाए रखी हैं
+",संगीत निर्देशक संगीत की मिठास और आकर्षण को बरकरार रखने में विफल रहे हैं,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"संगीत निर्देशकों ने संगीत की मधुरता और रवानी बनाए रखी हैं
+",संगीत निर्देशकों ने संगीत की मिठास और आकर्षण को बदल दिया है,The statement is false because review indicates that the music directors have maintained the sweetness and charm of the music which opposes the suggestion of alteration,FALSE
+"संगीत निर्देशकों ने संगीत की मधुरता और रवानी बनाए रखी हैं
+",संगीत निर्देशकों ने संगीत की मधुरता और आकर्षण को सफलतापूर्वक बरकरार रखा है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"संगीत निर्देशकों ने संगीत की मधुरता और रवानी बनाए रखी हैं
+",संगीत निर्देशकों ने संगीत की मिठास और आकर्षण को बढ़ाया है,"The statement is contratry to the sentiment of the review, since the review does not provide any indication that the music directors enhanced the quality of music.",not-given
+"साकेत चौधरी निर्देशित ‘हिंदी मीडियम’ एक अनिवार्य फिल्‍म है
+",फिल्म हिंदी मीडियम देखने लायक नहीं है,"The statement is contratry to the review, so the statement is false.",FALSE
+"साकेत चौधरी निर्देशित ‘हिंदी मीडियम’ एक अनिवार्य फिल्‍म है
+",फिल्म हिंदी मीडियम जरूर देखनी चाहिए,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"साकेत चौधरी निर्देशित ‘हिंदी मीडियम’ एक अनिवार्य फिल्‍म है
+",फिल्म हिंदी मीडियम को छोड़ा जा सकता है,"The statement is contratry to the review, so the statement is false.",FALSE
+"साकेत चौधरी निर्देशित ‘हिंदी मीडियम’ एक अनिवार्य फिल्‍म है
+",साकेत चौधरी द्वारा निर्देशित फिल्म हिंदी मीडियम को ओवररेटेड किया गया है,"Nothing about the feelings of other people towards film as being overrated was mentioned in the review. So it is not-given. There could be some who feels that way, but within the boundaries of the review, we cannot say true or false with certainty.",not-given
+"सामान्‍य सी पंक्तियों में वे अपने अंदाज से हास्‍य और व्‍यंग्‍य पैदा करते हैं। वे हंसाने के साथ भेदते हैं।
+",लेखक की शैली जटिल है और उसमें हास्य और व्यंग्य का अभाव है,"he review praises the author for creating humor and satire effectively, contradicting the suggestion that the author's style lacks humor.",FALSE
+"सामान्‍य सी पंक्तियों में वे अपने अंदाज से हास्‍य और व्‍यंग्‍य पैदा करते हैं। वे हंसाने के साथ भेदते हैं।
+","लेखक की लेखन शैली को समझना कठिन है, जिससे हास्य और व्यंग्य प्रस्तुत करने में बाधा आती है",The reviewer indicates that the author usese satire and humor in a very simple way which contradicts the implication that the authors writing style is hard to understand.,FALSE
+"सामान्‍य सी पंक्तियों में वे अपने अंदाज से हास्‍य और व्‍यंग्‍य पैदा करते हैं। वे हंसाने के साथ भेदते हैं।
+",लेखक सीधे लेखन के माध्यम से सफलतापूर्वक हँसी और व्यंग्य उत्पन्न करता है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"सामान्‍य सी पंक्तियों में वे अपने अंदाज से हास्‍य और व्‍यंग्‍य पैदा करते हैं। वे हंसाने के साथ भेदते हैं।
+",लेखक की लेखन शैली में गहराई का अभाव है और वह हंसी और व्यंग्य पैदा करने में विफल है,The statement cotradicts the notion that the writing lacks depth and effectiveness.,FALSE
+"सिनेमाघर में हर्ष से चिल्लाने का मन करेगा 
+",फिल्म देखते समय दर्शक बोरियत महसूस करेंगे,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"सिनेमाघर में हर्ष से चिल्लाने का मन करेगा 
+",यह फिल्म दर्शकों में उत्साह और खुशी की भावना पैदा करेगी,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"सिनेमाघर में हर्ष से चिल्लाने का मन करेगा 
+",यह फिल्म दर्शकों को निराश करेगी,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"सिनेमाघर में हर्ष से चिल्लाने का मन करेगा 
+",फिल्म दर्शकों में कई तरह की भावनाएं जगाएगी,"The review mentions ""screaming with joy"", it doesn't mention other emotions, so it cannot be inferred within the boundaries of this review if this is true or false.",not-given
+"सिनेमेटोग्राफर रवि बर्मन फ़िल्म की ख़ूबसूरती को कई कदम आगे ले जाते है
+",रवि बर्मन के सिनेमैटोग्राफी ने फिल्म को और अच्छा दिखाया है,The review says that the film's beauty was enhanced due to Ravi Barman's cinematography.,TRUE
+"सिनेमेटोग्राफर रवि बर्मन फ़िल्म की ख़ूबसूरती को कई कदम आगे ले जाते है
+","रवि बर्मन के सिनेमैटोग्राफी के काम के कारण फिल्म को बॉक्स ऑफिस हिट कहा गया है।
+
+
+
+",The review doesn't say anything about the movie's success in terms of its collections at the box office. ,not-given
+"सिनेमेटोग्राफर रवि बर्मन फ़िल्म की ख़ूबसूरती को कई कदम आगे ले जाते है
+",रवि बर्मन के सिनेमैटोग्राफी ने बिगड़ी हुई फिल्म को अच्छा पेश किया है,"The review says that the cinematographer's work takes the beauty of the film several steps further, which means it is already a beautiful movie to certain extent and not a bad one.",FALSE
+"सिनेमेटोग्राफर रवि बर्मन फ़िल्म की ख़ूबसूरती को कई कदम आगे ले जाते है
+",रवि बर्मन के सिनेमैटोग्राफी ने फिल्म के दर्शकों को बढ़ाने में मदद की है,The review doesn't talk anything about increase in engagement with the film.,not-given
+"सुनील दर्शन ने लकदक लोकेशन को बखूबी कैमरे में कैप्चर किया है
+",सुनील दर्शन ने फिल्म में लद्दाख का चित्रण अच्छा किया है,The review states that Sunil Darshan did a good job in capturing shots of Ladakh hence the statement supports the review.,TRUE
+"सुनील दर्शन ने लकदक लोकेशन को बखूबी कैमरे में कैप्चर किया है
+",सुनील दर्शन ने लोकेशन का फायदा उठाने और उसे फिल्म में इस्तेमाल करने में अच्छा काम किया है,"The review says that Sunil Darshan captured the location very well, so the statement is true.",TRUE
+"सुनील दर्शन ने लकदक लोकेशन को बखूबी कैमरे में कैप्चर किया है
+",मूवी कैप्चर करने के लिए लद्दाख एक अच्छा स्थान है,"Nothing about the nature of the location Ladakh for shooting a film was mentioned in the review, so the statement is not-given.",not-given
+"सुनील दर्शन ने लकदक लोकेशन को बखूबी कैमरे में कैप्चर किया है
+",सुनील दर्शन केवल अच्छे दृश्य ही फिल्मा सके क्योंकि फिल्म निर्देशन के लिए लद्दाख एक अच्छी लोकेशन है,The review says Sunil did a good job at capturing but doesn't say he could only capture because the location was good. So the statement is false.,FALSE
+"स्क्रिप्ट की सीमित सीमाओं में उन्होंने बेहतरीन काम किया है
+",फिल्म में सीमाएँ थीं,"
+Nothing about the film's limitations were mentioned.",not-given
+"स्क्रिप्ट की सीमित सीमाओं में उन्होंने बेहतरीन काम किया है
+",फिल्म की स्क्रिप्ट में सीमाएँ थीं,Nothing about the limitations in the script were mentioned.,not-given
+"स्क्रिप्ट की सीमित सीमाओं में उन्होंने बेहतरीन काम किया है
+",फिल्म की सीमाएं उपेक्षित थीं,Nothing about the limitations in the script were mentioned.,not-given
+"स्क्रिप्ट की सीमित सीमाओं में उन्होंने बेहतरीन काम किया है
+",फिल्म की स्क्रिप्ट में कोई सीमाएँ नहीं थीं,Nothing about the limitations in the script were mentioned.,not-given

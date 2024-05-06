@@ -1,0 +1,631 @@
+review_text,statement,justification,label
+" अक्षय कुमार का अल्हड़ और बेफिक्र अंदाज मुग्ध करता है
+","उपयोगकर्ता को लगता है की अक्षय कुमार की बेफिक्री और भोलापन दर्शकों को आकर्षित करती ह। 
+",The user does say that the viewerswere attracted by the naive nature of Akshay kumar,TRUE
+" अक्षय कुमार का अल्हड़ और बेफिक्र अंदाज मुग्ध करता है
+","अक्षय कुमार का अभिनय में कोई आकर्षण नहीं है।
+",The user does feel that the feelings of Akshay Kumar was attractive which is the opposite of the statement given,FALSE
+" अक्षय कुमार का अल्हड़ और बेफिक्र अंदाज मुग्ध करता है
+","दर्शक को लगता है की अक्षय कुमार की आवाज़ में एक अनूठी गहराई है।
+",The user does not state anything about Akshay Kumar's voice,not-given
+" अक्षय कुमार का अल्हड़ और बेफिक्र अंदाज मुग्ध करता है
+",उपयोगकर्ता को लगता है की अक्षय कुमार की अदाकारी आकर्षक है।,The user does feel that Akshay Kumar's acting was attractive,TRUE
+" अच्छा रहता अगर डाइरेक्टर निर्माता के प्रति जरूरत से ज्यादा वफादारी दिखाने की बजाएं फिल्म के बाकी कैरक्टर्स को डेवलेप करते । 
+
+",फ़िल्म में किरदारों का सही से कैरेक्टर डेवलपमेंट नहीं हुआ था,"The review mentions that it would have been better had the director focused on developing characters instead of serving the interests of the producer, which means that the characters were underdeveloped. So the statement is true.",TRUE
+" अच्छा रहता अगर डाइरेक्टर निर्माता के प्रति जरूरत से ज्यादा वफादारी दिखाने की बजाएं फिल्म के बाकी कैरक्टर्स को डेवलेप करते । 
+
+",पर्सनल रिलेशनशिप पर फ़िल्म काला से ज़्यादा ध्यान देने की वजह से फ़िल्म उतना अच्छा नहीं कर सकी,The review states that the director was more focused on serving the interests of the producer rather than focusing on bringing together a great movie. So the statement is true.,TRUE
+" अच्छा रहता अगर डाइरेक्टर निर्माता के प्रति जरूरत से ज्यादा वफादारी दिखाने की बजाएं फिल्म के बाकी कैरक्टर्स को डेवलेप करते । 
+
+",फ़िल्म में काफ़ी प्रभावशाली और आकर्षक किरदार थे,Nothing about the characters in the film was mentioned. So any statement about them would only be an assumption.,not-given
+" अच्छा रहता अगर डाइरेक्टर निर्माता के प्रति जरूरत से ज्यादा वफादारी दिखाने की बजाएं फिल्म के बाकी कैरक्टर्स को डेवलेप करते । 
+
+",निर्देशक ने कैरेक्टर डेवलपमेंट को काफ़ी गंभीरता से लिया,The statement is false because the review states that the characters were underdeveloped due to the director prioritising the producer's interests more.,FALSE
+" इंटरवल के बाद जब पात्रों के खुद को पहचानने की बारी आती है , तो कहानी भटकने लगती है। सिर्फ दो घंटे से कम अवधि की फिल्म में भी दर्शक खुद को अंत तक बांध नहीं पाता। 
+
+",फ़िल्म दर्शकों को सम्मोहित करने में असफल रही,"The review states that the story starts wandering after the interval, and that the audience are unable to keep themselves engaged.",TRUE
+" इंटरवल के बाद जब पात्रों के खुद को पहचानने की बारी आती है , तो कहानी भटकने लगती है। सिर्फ दो घंटे से कम अवधि की फिल्म में भी दर्शक खुद को अंत तक बांध नहीं पाता। 
+
+",फ़िल्म काफ़ी रोमांचक थी,"Since the audience were not able to keep themselves engaged, it is not logical to say that the movie was interesting to the audience.",FALSE
+" इंटरवल के बाद जब पात्रों के खुद को पहचानने की बारी आती है , तो कहानी भटकने लगती है। सिर्फ दो घंटे से कम अवधि की फिल्म में भी दर्शक खुद को अंत तक बांध नहीं पाता। 
+
+",फ़िल्म में इंटरेस्टिंग किरदारों की कमी थी,"While the review states that the movie leaves the viewer feeling unengaged at some point, it doesn't explicitly specify whether the movie lacked interesting characters.",not-given
+" इंटरवल के बाद जब पात्रों के खुद को पहचानने की बारी आती है , तो कहानी भटकने लगती है। सिर्फ दो घंटे से कम अवधि की फिल्म में भी दर्शक खुद को अंत तक बांध नहीं पाता। 
+
+",फ़िल्म के बीच में बहुत बड़ा ट्विस्ट आया,Nothing about the plot of the movie was specified in the review. It only specifies how it left the audience feeling.,not-given
+" इंटरवल के बाद फिल्म उलझ जाती है। 
+",फ़िल्म शुरुआत से ही काफ़ी कन्फ़्यूज़िंग है,"According to the review, the movie becomes confusing after the interval. So it is untrue that it is confusing from the beginning.",FALSE
+" इंटरवल के बाद फिल्म उलझ जाती है। 
+",फ़िल्म इंटरवल के बाद और सरल हो सकती थी,"Since the review states that the movie becomes entangled after the interval, it is only logical to say that it could have been clearer.",TRUE
+" इंटरवल के बाद फिल्म उलझ जाती है। 
+",फ़िल्म में टेम्पो कम था,The review doesn't anything about the movie's tempo or pacing.,not-given
+" इंटरवल के बाद फिल्म उलझ जाती है। 
+",फ़िल्म इतनी दिशाओं में चली गई थी कि एक समय पर बहुत कन्फ़्यूज़िंग हो गई थी,"Though the review says that the movie was confusing after the interval, it doesn't specify what elements caused the confusion. So we cannot infer with certainty that the movie had many storylines and that it why it got confusing.",not-given
+" इरफान (साजन) और निम्रत कौर (इला) सहज, संयमित और भावपूर्ण अभिनय के उदाहरण हैं
+","इरफान और निम्रत कौर ने अपने सहजता और भावनात्मकता से सीन्स और भी खूबसूरत हो गए हैं।
+",The viewer does state that Irrfan and Nimrat Kaur have acted with their naturalness and emotionality have made the scenes even more beautiful.,TRUE
+" इरफान (साजन) और निम्रत कौर (इला) सहज, संयमित और भावपूर्ण अभिनय के उदाहरण हैं
+","इस फिल्म में साजन और इला के रूप में इरफान और निम्रत ने काम किया है।  
+",The user does state that in the move the characters Sajan and Ila were enacted by Irrfan and Nimrat respectively,TRUE
+" इरफान (साजन) और निम्रत कौर (इला) सहज, संयमित और भावपूर्ण अभिनय के उदाहरण हैं
+","इरफान और निम्रत कौर का अभिनय बहुत ही अतिरंजित और अस्वाभाविक लगा।
+",The viewer says that Irrfan and Nimrat Kaur's acting appeared natural which is the opposite of this statement,FALSE
+" इरफान (साजन) और निम्रत कौर (इला) सहज, संयमित और भावपूर्ण अभिनय के उदाहरण हैं
+","इरफान और निम्रत कौर की इस फिल्म के लिए अंतर्राष्ट्रीय पुरस्कार मिले हैं।
+",The viewer does not mention anything about receiving awards in this statement,not-given
+" उन्‍होंने लेखक के विजयेन्‍द्र प्रसाद की कल्‍पना को चाक्षुष उड़ान दी है
+",निर्देशक लेखक विजयेंद्र प्रसाद की कल्पना को ऊपर उठाने में विफल रहे,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+" उन्‍होंने लेखक के विजयेन्‍द्र प्रसाद की कल्‍पना को चाक्षुष उड़ान दी है
+",निर्देशक ने लेखक विजयेंद्र प्रसाद की कल्पना की उपेक्षा की है,The review does not indicate any neglect from the director's side,FALSE
+" उन्‍होंने लेखक के विजयेन्‍द्र प्रसाद की कल्‍पना को चाक्षुष उड़ान दी है
+",निर्देशक ने लेखक विजयेंद्र प्रसाद की कल्पनाशक्ति को सफलतापूर्वक निखारा है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+" उन्‍होंने लेखक के विजयेन्‍द्र प्रसाद की कल्‍पना को चाक्षुष उड़ान दी है
+",निर्देशक कल्पना को उड़ान देता है या समग्र फिल्म अनुभव पर उसका प्रभाव डालता है,This review doesn't specify the manner in which the director gives flight to the imagination or its impact on the overall film experience,not-given
+" उन्होंने हमेशा ऐसी फिल्मों के दृश्यों को अपने संगीत से प्रभावपूर्ण बना दिया है
+","उनका संगीत हमेशा फिल्मों के दृश्यों को और भी गहरा और प्रभावशाली बना देता है।
+",The user does appriciate the music in the film. ,TRUE
+" उन्होंने हमेशा ऐसी फिल्मों के दृश्यों को अपने संगीत से प्रभावपूर्ण बना दिया है
+","उन्होंने अपने संगीत से हर दृश्य को एक खास प्रभाव दिया है, जिससे फिल्म का अनुभव उत्तम हो गया है। ","The user does explain that they have given each scene a unique impact with their music, which has improved the film's experience. ",TRUE
+" उन्होंने हमेशा ऐसी फिल्मों के दृश्यों को अपने संगीत से प्रभावपूर्ण बना दिया है
+","उनका संगीत फिल्म के दृश्यों पर कोई खास असर नहीं डालता, अक्सर यह बेअसर लगता है। ",The user does not say that their music seems ineffective but the opposite,FALSE
+" उन्होंने हमेशा ऐसी फिल्मों के दृश्यों को अपने संगीत से प्रभावपूर्ण बना दिया है
+",उनके संगीत की वजह से उन्हें हॉलीवुड मूवी भी ऑफर किया गया हैं। ,The user does not mention anything about anyone bing offered a hollywood movie,not-given
+" एडिटिंग भी शार्प है
+",दर्शक ने कहा है कि फिल्म की एडिटिंग बहुत अच्छी है,The review praises the editing of the movie in general.,TRUE
+" एडिटिंग भी शार्प है
+",दर्शक ने कहा है कि फिल्म की एडिटिंग बहुत खराब है,The review praises the editing of the movie in general.,FALSE
+" एडिटिंग भी शार्प है
+",दर्शक ने कहा है कि फिल्म के एडिटिंग के कारण सिनेमैटोग्राफी की खूबसूरती बढ़ी है,The review doesn't make any connection between editing and cinematography.,not-given
+" एडिटिंग भी शार्प है
+",दर्शक ने कहा है कि एडिटिंग ने फिल्म को रोमांचक बनाया है,"The review has only said the editing is sharp, but doesn't say if it is interesting or not to the general audience. ",not-given
+" किरदार और कलाकार दोनों ही दर्शकों की हमदर्दी हासिल कर लेते हैं
+",न तो पात्र और न ही अभिनेता दर्शकों में सहानुभूति जगाते हैं,"The statement is contratry to the review, so the statement is false.",FALSE
+" किरदार और कलाकार दोनों ही दर्शकों की हमदर्दी हासिल कर लेते हैं
+","केवल पात्र, अभिनेता नहीं, दर्शकों से सहानुभूति प्राप्त करते हैं",The statement is false because it only focuses on the charcters but not the other object mentioned in the statement that are actors,FALSE
+" किरदार और कलाकार दोनों ही दर्शकों की हमदर्दी हासिल कर लेते हैं
+",अभिनेता अपने पात्रों को सहानुभूतिपूर्ण तरीके से सफलतापूर्वक चित्रित करते हैं,The statement is true since both the actors and the audience could sympathize with the character hence the actors have done a good job.,TRUE
+" किरदार और कलाकार दोनों ही दर्शकों की हमदर्दी हासिल कर लेते हैं
+",पात्रों का विकास ख़राब है और वे दर्शकों की सहानुभूति जगाने में विफल रहते हैं,"The statement is contratry to the review, so the statement is false.",FALSE
+" खौफ के एहसास के बाद उनके चेहरे पर आया डर इस फिल्म की खूबी है
+","दर्शक को लगता है की उनके चेहरे पर दिखाई देने वाला डर इस फिल्म का एक मजबूत पहलू है
+",The viewer does say that the fear displayed on their faces is a strong aspect of this film ,TRUE
+" खौफ के एहसास के बाद उनके चेहरे पर आया डर इस फिल्म की खूबी है
+",दर्शक को लगता है की फिल्म में डर का कोई भी एहसास नहीं था। ,The user does not say that there was no sense of fear in the film but says the opposite,FALSE
+" खौफ के एहसास के बाद उनके चेहरे पर आया डर इस फिल्म की खूबी है
+",दर्शक को लगता है की फिल्म की यह खासियत उसे अंतरराष्ट्रीय फिल्म समारोहों में पुरस्कार दिलाने में मददगार रही है। ,The user does not mention anything about the film helping it win awards at international film festivals.,not-given
+" खौफ के एहसास के बाद उनके चेहरे पर आया डर इस फिल्म की खूबी है
+",दर्शक को लगता है की इस फिल्म की सफलता ने निर्देशक को अगली फिल्म के लिए बड़े बजट का अनुमान लगाने में मदद की। ,The viewer does not mention anything about success of this film has helping the director estimate a bigger budget for the next film.,not-given
+" चंदन रॉय सान्याल एक उम्दा अभिनेता हैं इसमें कोई शक नहीं है
+","उपयोगकर्ता को लगता है की चंदन रॉय सान्याल की अदाकारी हर बार मन मोह लेती है
+",The user does feel that Chandan Roy Sanyal's acting always captivates the users.,TRUE
+" चंदन रॉय सान्याल एक उम्दा अभिनेता हैं इसमें कोई शक नहीं है
+","उपयोगकर्ता को लगता है की चंदन रॉय सान्याल वास्तव में एक प्रतिभाशाली अभिनेता हैं।
+",The user does say that Chandan Roy Sanyal's is truly a talented actor. ,TRUE
+" चंदन रॉय सान्याल एक उम्दा अभिनेता हैं इसमें कोई शक नहीं है
+",दर्शक को लगता है की चंदन रॉय सान्याल में अभिनय की कोई खासियत नहीं हैं। ,The user does not say that Chandan Roy a very average actor but says the opposite,FALSE
+" चंदन रॉय सान्याल एक उम्दा अभिनेता हैं इसमें कोई शक नहीं है
+",दर्शक को लगता है की चंदन रॉय सान्याल ने अपनी नवीनतम फिल्म में निर्देशन भी किया है। ,The user does not mention anything about Chandan Roy Sanyal directing his latest film,not-given
+" डायनिंग हॉल के टेबल पर अपरिचित टिफिन को खोलते समय इरफान के एक-एक भाव को पढ़ा सकता है
+","इरफान के चेहरे पर हर भाव साफ देखा जा सकता है जब वह डाइनिंग हॉल में टिफिन खोलते हैं।
+",The user does say that every emotion on Irrfan's face is clearly visible when he opens the tiffin in the dining hall.,TRUE
+" डायनिंग हॉल के टेबल पर अपरिचित टिफिन को खोलते समय इरफान के एक-एक भाव को पढ़ा सकता है
+","डाइनिंग हॉल में टिफिन खोलते समय इरफान के भावों का विस्तार से चित्रण किया गया है, जिससे दर्शक उनकी अंतरंग भावनाओं को महसूस कर सकते हैं।
+",The user does say that Irrfan's expressions while opening the tiffin in the dining hall are depicted in detail.,TRUE
+" डायनिंग हॉल के टेबल पर अपरिचित टिफिन को खोलते समय इरफान के एक-एक भाव को पढ़ा सकता है
+","इरफान के भाव जब वह टिफिन खोलते हैं बहुत ही अस्पष्ट होते हैं, जिससे दर्शकों को उनकी भावनाओं को समझने में कठिनाई होती है।
+",The user mentions that Irrfan's expressions were depiced well which is the opposite to this statement,FALSE
+" डायनिंग हॉल के टेबल पर अपरिचित टिफिन को खोलते समय इरफान के एक-एक भाव को पढ़ा सकता है
+",इरफान के इस दृश्य की वजह से फिल्म को कई नए फिल्म्स मिले हैं। ,The user does not mention anything about Irrfan receiving new films in the statement,not-given
+" डीनो फिल्म में विलेन बनकर रह गए
+",डिनो फ़िल्म में एक किरदार है,"Since the review says Dino is a villain, it means Dino is a character in the film.",TRUE
+" डीनो फिल्म में विलेन बनकर रह गए
+",डिनो का स्वभाव काफ़ी पेचीदा है,The review clearly states that Dino is a villain.,FALSE
+" डीनो फिल्म में विलेन बनकर रह गए
+",डिनो (फ़िल्म में) नायक है,It is not-given whether Dino is one of the protagonists or the protagonist.,not-given
+" डीनो फिल्म में विलेन बनकर रह गए
+",डिनो एक खुदपरस्त किरदार है,"Though the review mentions that Dino is a villain, it doesn't mention Dino's evil qualities. So Dino is narcissistic would would only be an assumption.",not-given
+" तपतपाते बाजारू मौसम में यह सुकून देती है
+","इस फिल्म का अनुभव गर्मी और शोरभरे माहौल से एक आरामदायक विराम की तरह है।
+",The viewer does say that experiencing this film is like a comforting break from the hot and noisy environment.,TRUE
+" तपतपाते बाजारू मौसम में यह सुकून देती है
+","इस फिल्म में कोई सुकून नहीं है।
+",The user does say that this film is comforting and the statement is the complete opposite.,FALSE
+" तपतपाते बाजारू मौसम में यह सुकून देती है
+","इस फिल्म के साउंडट्रैक ने आलोचकों से उच्च प्रशंसा प्राप्त की है।
+",The viewer does not mention anything about the soundtrack of this film.,not-given
+" तपतपाते बाजारू मौसम में यह सुकून देती है
+","इस फिल्म की समीक्षा में सभी समीक्षकों ने इसकी कहानी की प्रशंसा की है।
+",The viewer does not mention anything about the critics of the film,not-given
+" दर्शकों को आनंदित भी करती है, क्‍योंकि इसके पहले इस स्‍तर और पैमाने का विजुअल और वीएफएक्‍स नहीं देखा गया हैं
+",इस स्केल और लेवल के विजुअल्स और वीएफएक्स पहले भी देखे जा चुके हैं,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+" दर्शकों को आनंदित भी करती है, क्‍योंकि इसके पहले इस स्‍तर और पैमाने का विजुअल और वीएफएक्‍स नहीं देखा गया हैं
+",इस पैमाने और स्तर के दृश्य और वीएफएक्स दर्शकों को प्रभावित करने में विफल रहते हैं,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+" दर्शकों को आनंदित भी करती है, क्‍योंकि इसके पहले इस स्‍तर और पैमाने का विजुअल और वीएफएक्‍स नहीं देखा गया हैं
+",इस पैमाने और स्तर के दृश्य और वीएफएक्स अभूतपूर्व और विस्मयकारी हैं,The statement is true because it supports the review that the visuals and VFX is something new shown to the audience which can be groundbreaking.,TRUE
+" दर्शकों को आनंदित भी करती है, क्‍योंकि इसके पहले इस स्‍तर और पैमाने का विजुअल और वीएफएक्‍स नहीं देखा गया हैं
+",दृश्य और वीएफएक्स फिल्म को दर्शकों के लिए सफल और आकर्षक बनाते हैं,There is no indication of whether the visuals and VFX has a huge impact on the movie experience.,not-given
+" नएपन के बावजूद सभी कलाकारों के परस्पर तालमेल से दृश्य रोचक हुए हैं
+","उपयोगकर्ता को लगता है की फिल्म में नयापन है।
+",The user does feel that the film has a novelty,TRUE
+" नएपन के बावजूद सभी कलाकारों के परस्पर तालमेल से दृश्य रोचक हुए हैं
+",उपयोगकर्ता को लगता है की कलाकारों के बीच की जबरदस्त समझबूझ ने इस फिल्म को बहुत ही आकर्षक बना दिया है। ,The user does feel that the excellent understanding between the actors has made this film very appealing ,TRUE
+" नएपन के बावजूद सभी कलाकारों के परस्पर तालमेल से दृश्य रोचक हुए हैं
+",दर्शक को लगता है की कलाकारों के बीच बिल्कुल भी तालमेल नहीं है। ,The user feels that the actors have good coordination but this statement is the complete opposite,FALSE
+" नएपन के बावजूद सभी कलाकारों के परस्पर तालमेल से दृश्य रोचक हुए हैं
+",दर्शक को लगता है की इस फिल्म की वजह से कलाकारों को कई नए प्रोजेक्ट्स मिले हैं। ,The viewer doesnot talk anything about new opportunities given to the actors,not-given
+" पानी में तैरते हुए ही उन्हें सारे भाव व्यक्त करने थे
+","उन्होंने पानी में तैरते हुए भी अपने सभी भावों को बखूबी व्यक्त किया था।
+",The viewer does feel that they expressed all their emotions beautifully while floating in water.,TRUE
+" पानी में तैरते हुए ही उन्हें सारे भाव व्यक्त करने थे
+","पानी में तैरते हुए उनके भावों की अभिव्यक्ति कमजोर पड़ गई थी।
+",The user did not feel that their expression of emotions while floating in water weakened and said the opposite,FALSE
+" पानी में तैरते हुए ही उन्हें सारे भाव व्यक्त करने थे
+",इस दृश्य की शूटिंग के लिए विशेष प्रकार के कैमरे का उपयोग किया गया था। ,The user does not mention anything about special types of cameras used for shooting this scene. ,not-given
+" पानी में तैरते हुए ही उन्हें सारे भाव व्यक्त करने थे
+",उनके इस प्रदर्शन के लिए उन्हें कई पुरस्कार मिले। ,The user does not mention anything about them receiving any awards for this performance.,not-given
+" प्यार और रोमांस के प्रति यूथ का ढुलमुल और अस्पष्ट रवैया फिल्म में अच्छी तरह से चित्रित हुआ है
+","इस फिल्म में रोमांस भी ढिकया गया ह।  
+",The user does state that romance is being depictyed in the film.,TRUE
+" प्यार और रोमांस के प्रति यूथ का ढुलमुल और अस्पष्ट रवैया फिल्म में अच्छी तरह से चित्रित हुआ है
+",इस फिल्म में यूथ के प्यार और रोमांस को अच्छे तर्रेके से प्रस्तुत किया गया ह। ,The user does state that the feelings of the youth's have been explored in this film,TRUE
+" प्यार और रोमांस के प्रति यूथ का ढुलमुल और अस्पष्ट रवैया फिल्म में अच्छी तरह से चित्रित हुआ है
+","फिल्म में युवाओं के भावनाओं को नजरअंदाज किया गया है।
+",The user does not say that the film ignores the youth's feelings but says that it has been depicted well,FALSE
+" प्यार और रोमांस के प्रति यूथ का ढुलमुल और अस्पष्ट रवैया फिल्म में अच्छी तरह से चित्रित हुआ है
+",इस फिल्म में रामबीर कपूर ने हीरो का किरदार निभाया ह। ,The is nothing mentioned about Ranbir kapoor playing the hero's role in the film,not-given
+" प्रीतम का संगीत कमाल का है
+",इस फिल्म के लिए प्रीतम का संगीत बहुत बड़ा किरदार निभाता है,The review only talks about the quality og Preetham's music but not how it is relevant to the movie.,not-given
+" प्रीतम का संगीत कमाल का है
+",प्रीतम का संगीत कानों को अच्छा लगता है।,"The review talks about the quality of the music. The music is amazing, so it is something pleasant to the ears.",TRUE
+" प्रीतम का संगीत कमाल का है
+",प्रीतम का संगीत कानों से खून लाता है,"The review talks about the quality of the music. The music is good, so it is something pleasant to the ears and doesn't make one's ears bleed.",FALSE
+" प्रीतम का संगीत कमाल का है
+",प्रीतम का संगीत दर्शकों को मोहित करता है,"The review talks about the quality of the music. The music is amazing, so it is something pleasant to the ears.",TRUE
+" फिल्म का गीत-संगीत नया और विषय के अनुकूल है
+","फिल्म के गीत-संगीत ने विषय को और अधिक उजागर किया है।
+",The user does say that the film's music and songs have highlighted the theme further.,TRUE
+" फिल्म का गीत-संगीत नया और विषय के अनुकूल है
+","फिल्म का संगीत विषय से मेल नहीं खाता और पुराना लगता है, जिससे यह आकर्षक नहीं लगता। ",The user does not say that the film's music does not match the theme and feels outdated but says the opposite ,FALSE
+" फिल्म का गीत-संगीत नया और विषय के अनुकूल है
+",इस फिल्म के गीत-संगीत को अंतरराष्ट्रीय संगीत समारोहों में पुरस्कार मिले हैं। ,The user does not mention about any awards in the statement,not-given
+" फिल्म का गीत-संगीत नया और विषय के अनुकूल है
+",इस फिल्म में अरिजीत सिंह ने गया ह।,The user does not mention anything about who sand the song,not-given
+" फिल्म की एक और महत्वपूर्ण बात इसका कैमरा है जो लगातार मूविंग रहता है
+","दर्शक को लगता है की फिल्म का लगातार चलता कैमरा दृश्यों को जीवंत बना देता है, जो देखने में बड़ा ही मजेदार है।
+","The user does feel that the film's constantly moving camera makes the scenes lively, which is very enjoyable to watch. ",TRUE
+" फिल्म की एक और महत्वपूर्ण बात इसका कैमरा है जो लगातार मूविंग रहता है
+","दर्शक को लगता है की इस फिल्म में कैमरा का उपयोग बहुत ही कुशलता से किया गया है, जिससे कहानी में गतिशीलता आती है।","The viewer does feel that the camera is used very skillfully in this film, adding dynamism to the story. ",TRUE
+" फिल्म की एक और महत्वपूर्ण बात इसका कैमरा है जो लगातार मूविंग रहता है
+",उपयोगकर्ता को लगता है की फिल्म में कैमरा का कोई खास योगदान नहीं है। ,The user does feel that the camera does contribute significantly to the film and this statement is the opposite to it.. ,FALSE
+" फिल्म की एक और महत्वपूर्ण बात इसका कैमरा है जो लगातार मूविंग रहता है
+",उपयोगकर्ता को लगता है की फिल्म के कैमरा वर्क की आलोचना कई समीक्षकों ने की है।,The user does not mention anything about any other critics who have have criticized the film's camera work.,not-given
+" फिल्‍म की एक्‍शन कोरियोग्राफी के लिए एक्‍शन डायरेक्‍टर और कलाकार दोनों ही बधाई और सराहना के पात्र हैं
+",फिल्म की एक्शन कोरियोग्राफी के लिए न तो एक्शन निर्देशक और न ही कलाकार बधाई के पात्र हैं,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+" फिल्‍म की एक्‍शन कोरियोग्राफी के लिए एक्‍शन डायरेक्‍टर और कलाकार दोनों ही बधाई और सराहना के पात्र हैं
+",फिल्म की एक्शन कोरियोग्राफी में एक्शन डायरेक्टर और कलाकारों ने सराहनीय काम किया है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+" फिल्‍म की एक्‍शन कोरियोग्राफी के लिए एक्‍शन डायरेक्‍टर और कलाकार दोनों ही बधाई और सराहना के पात्र हैं
+",फिल्म की एक्शन कोरियोग्राफी के लिए एक्शन डायरेक्टर बधाई और सराहना के पात्र हैं,The statement is false because the review gives credit to both the action director as well as the actors,FALSE
+" फिल्‍म की एक्‍शन कोरियोग्राफी के लिए एक्‍शन डायरेक्‍टर और कलाकार दोनों ही बधाई और सराहना के पात्र हैं
+",न तो एक्शन निर्देशक और न ही कलाकार ने फिल्म की एक्शन कोरियोग्राफी में प्रभावी योगदान दिया,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+" फिल्‍म के इस हिस्‍से में कलाकारों का इम्‍प्रूवाइजेशन गौरतलब है 
+",फिल्म के इस भाग में अभिनेताओं द्वारा किया गया सुधार उल्लेखनीय है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+" फिल्‍म के इस हिस्‍से में कलाकारों का इम्‍प्रूवाइजेशन गौरतलब है 
+",फिल्म के इस भाग में अभिनेताओं के सुधार में रचनात्मकता का अभाव है,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+" फिल्‍म के इस हिस्‍से में कलाकारों का इम्‍प्रूवाइजेशन गौरतलब है 
+",फ़िल्म के इस भाग में अभिनेताओं का सुधार नगण्य है,The statement is false because it specifies that there was no work done by the actor but the review clearly states that the actor had introduced improvisions.,FALSE
+" फिल्‍म के इस हिस्‍से में कलाकारों का इम्‍प्रूवाइजेशन गौरतलब है 
+",फिल्म के इस भाग में अभिनेताओं का सुधार प्रभावहीन है,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+" फिल्म के कोर्ट रूम सीन रियल हैं
+",फिल्म का एक सीन सच्ची घटना पर आधारित था।,"Though the review says the courtroom scene was real, it doesn't specify if it was real-life based or simply it felt realistic.",not-given
+" फिल्म के कोर्ट रूम सीन रियल हैं
+",कोर्टरूम के सीन में बहुत ही ड्रामा था।,Nothing about what went on within the courtoom scene was specified.,not-given
+" फिल्म के कोर्ट रूम सीन रियल हैं
+",कोर्टरूम के सीन को सहजता से अभिव्यक्त किया गया है। ,The review says the courtroom scene was real; it it more probable that it means that it felt realistic.,TRUE
+" फिल्म के कोर्ट रूम सीन रियल हैं
+",कोर्टरूम का सीन स्क्रीनराइटर का एक बेहतरीन कथन था।,Nothing about the screenwriter's efforts were mentioned in the review in relation to the courtroom scene.,FALSE
+" फिल्‍म देखते हुए साफ पता चलता है कि लेखक और निर्देशक को पत्रकार और पत्रकारिता की कोई जानकारी नहीं है
+",वह लेखक और निर्देशक पत्रकारों और पत्रकारिता के जानकार हैं,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+" फिल्‍म देखते हुए साफ पता चलता है कि लेखक और निर्देशक को पत्रकार और पत्रकारिता की कोई जानकारी नहीं है
+",लेखक और निर्देशक को पत्रकारों और पत्रकारिता की गहरी समझ है,"The review states that the writer and director have no knowledge of journalists and journalism, hence the statement is contradicting.",FALSE
+" फिल्‍म देखते हुए साफ पता चलता है कि लेखक और निर्देशक को पत्रकार और पत्रकारिता की कोई जानकारी नहीं है
+",लेखक और निर्देशक को पत्रकारों और पत्रकारिता का ज्ञान नहीं है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+" फिल्‍म देखते हुए साफ पता चलता है कि लेखक और निर्देशक को पत्रकार और पत्रकारिता की कोई जानकारी नहीं है
+",लेखक और निर्देशक पत्रकार और पत्रकारिता के क्षेत्र में विशेषज्ञ हैं,"The review states that the writer and director have no knowledge of journalists and journalism, hence the statement is contradicting.",FALSE
+" बच्चों को ये फ़िल्म जरूर पसंद आएगी और साथ ही साथ एक मैसेज भी पूरी मजबूती के साथ फ़िल्म देती है
+",दर्शक ने कहा है कि यह एक परिवारिक फिल्म है,The review doesn't specify whether the adults in the family would also equally enjoy the movie with the kids of the family.,not-given
+" बच्चों को ये फ़िल्म जरूर पसंद आएगी और साथ ही साथ एक मैसेज भी पूरी मजबूती के साथ फ़िल्म देती है
+",बड़े इस फिल्म को नहीं पसंद करेंगे,The review doesn't specify anything about adults' sentiment towards the film.,not-given
+" बच्चों को ये फ़िल्म जरूर पसंद आएगी और साथ ही साथ एक मैसेज भी पूरी मजबूती के साथ फ़िल्म देती है
+",फिल्म रोमांचक है और यह बहुत मजबूत संदेश देती है,"The review says kids will like it, so they will find it interesting and it also sends a strong message to them.",TRUE
+" बच्चों को ये फ़िल्म जरूर पसंद आएगी और साथ ही साथ एक मैसेज भी पूरी मजबूती के साथ फ़िल्म देती है
+",फिल्म का संदेश कुछ खास नहीं है,The review says that the children will also be given a strong message simultaneously while being involved in the movie. It has a positive connotation. ,FALSE
+" बहरहाल, विद्या बालन ने बेगम जान के किरदार को तन-मन दिया है
+","""बेगम जान"" में विद्या बालन का अभिनय फीका और जुनून रहित है","The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+" बहरहाल, विद्या बालन ने बेगम जान के किरदार को तन-मन दिया है
+","""बेगम जान"" में विद्या बालन का अभिनय औसत दर्जे का और प्रेरणाहीन है",The statement is false since the review states that the performance by Vidya Balan is commendable.,FALSE
+" बहरहाल, विद्या बालन ने बेगम जान के किरदार को तन-मन दिया है
+","""बेगम जान"" में विद्या बालन का अभिनय भावपूर्ण और समर्पित है","The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+" बहरहाल, विद्या बालन ने बेगम जान के किरदार को तन-मन दिया है
+","""बेगम जान"" में विद्या बालन के अभिनय में गहराई और प्रतिबद्धता की कमी है",The statement is false since the review states that the performance by Vidya Balan is commendable witch contradicts lack of depth and commitment by the actor.,FALSE
+" रणवीर शौरी और कल्कि कोचलिन का अभिनय उल्‍लेखनीय है
+",रणवीर शौरी और कल्कि कोचलिन की एक्टिंग बढ़िया नहीं है.,"The statement is contratry to the review, so the statement is false.",FALSE
+" रणवीर शौरी और कल्कि कोचलिन का अभिनय उल्‍लेखनीय है
+",फिल्म में रणवीर सिंह और कल्कि कोचलिन मुख्य किरदार नजर आते हैं।,"The review mentions Ranveer Shauri, not Ranveer Singh.",FALSE
+" रणवीर शौरी और कल्कि कोचलिन का अभिनय उल्‍लेखनीय है
+",रणवीर शौरी और कल्कि कोचलिन की एक्टिंग का कोई असर नहीं है,"The review says their acting was remarkable but the statement says it has not effect. So it is false. If something is remarkable, it will definitely have some impact on the viewers.",FALSE
+" रणवीर शौरी और कल्कि कोचलिन का अभिनय उल्‍लेखनीय है
+",रणवीर शौरी और कल्कि कोचलिन ने शानदार परफॉर्मेंस दी है।,"The review aligns with the statement, so the statement is true.",TRUE
+" रितेश बत्रा की 'द लंचबॉक्स' सुंदर, मर्मस्पर्शी, संवेदनशील, रियलिस्टिक और मोहक फिल्म है
+","द लंचबॉक्स' अपनी संवेदनशील कहानी और यथार्थवादी चित्रण के लिए प्रशंसा के पात्र हैं।
+",The user does say that the movie 'The Lunchbox' is praiseworthy for its sensitive storytelling and realistic portrayal. ,TRUE
+" रितेश बत्रा की 'द लंचबॉक्स' सुंदर, मर्मस्पर्शी, संवेदनशील, रियलिस्टिक और मोहक फिल्म है
+",द लंचबॉक्स' रितेश बत्रा की फिल्म है। ,The viewer does mention that 'The Lunchbox' is Ritesh Batra's film,TRUE
+" रितेश बत्रा की 'द लंचबॉक्स' सुंदर, मर्मस्पर्शी, संवेदनशील, रियलिस्टिक और मोहक फिल्म है
+", 'द लंचबॉक्स' फिल्म की कहानी बहुत ही सतही और अवास्तविक लगती है।, The user does not say that 'The Lunchbox' film's story feels very superficial and unrealistic but the opposite. ,FALSE
+" रितेश बत्रा की 'द लंचबॉक्स' सुंदर, मर्मस्पर्शी, संवेदनशील, रियलिस्टिक और मोहक फिल्म है
+",द लंचबॉक्स' की कहानी पारंपरिक बॉलीवुड शैलियों पर आधारित है।, The viewer does not say anything about basis of the story of 'The Lunchbox'.,not-given
+" वे उद्गार से अधिक संभाषण और संवाद लगते है
+","उनकी बातचीत बहुत ही सहज और जीवंत होती है।
+",The user does state that their interactions are very fluid and lively.,TRUE
+" वे उद्गार से अधिक संभाषण और संवाद लगते है
+",उनके उद्गार अत्यधिक कृत्रिम और अभिनयपूर्ण लगते हैं।,the user does not say that their expressions appear overly artificial and staged but the opposite,FALSE
+" वे उद्गार से अधिक संभाषण और संवाद लगते है
+",इस मूवी में कोई डाइलोगइस ही नहीं ह। ,The user is appreciating the dialogues in the film and so it is not possible for the film to have no dialogues,FALSE
+" वे उद्गार से अधिक संभाषण और संवाद लगते है
+","उनकी बातचीत की इस शैली के कारण उन्हें फ़िल्म्फरे अवार्ड मिला है।
+",The user does not mention anything about film fare award,not-given
+" शाहिद के भाइयों, मां और पत्‍‌नी की भूमिकाओं में भी उपयुक्त कलाकारों का चयन हुआ है
+",शाहिद के परिवार के किरदारों के लिए चुने गए कलाकार सटीक हैं।,The user does state that the choise of actors for Shahid's family is good,TRUE
+" शाहिद के भाइयों, मां और पत्‍‌नी की भूमिकाओं में भी उपयुक्त कलाकारों का चयन हुआ है
+",शाहिद के परिवार की भूमिकाओं में अभिनेताओं का चुनाव निराशाजनक है।,The user likes the choise of actors but this statement is opposite to what he feels,FALSE
+" शाहिद के भाइयों, मां और पत्‍‌नी की भूमिकाओं में भी उपयुक्त कलाकारों का चयन हुआ है
+",फिल्म की सिनेमैटोग्राफी बेहतरीन है।,The user doesnot state anything about the cinimatography of the film,not-given
+" शाहिद के भाइयों, मां और पत्‍‌नी की भूमिकाओं में भी उपयुक्त कलाकारों का चयन हुआ है
+",उपयोगकर्ता को लगता है की बाकि किरदारों के चुनाव भी अच्छे ही है ,The user does feel the rest of the casting was good.,TRUE
+" हिंदी फिल्मों में मनोरंजन की आक्रामक धूप से तिलमिलाए दर्शकों के लिए यह ठंडी छांव और बार की तरह है
+","यह फिल्म उन दर्शकों के लिए सुकून भरी राहत है जो टिपिकल मसाला फिल्मों से ऊब चुके हैं।
+",The viewer does mention that this film is a soothing relief for viewers who are tired of typical masala movies.,TRUE
+" हिंदी फिल्मों में मनोरंजन की आक्रामक धूप से तिलमिलाए दर्शकों के लिए यह ठंडी छांव और बार की तरह है
+"," इस फिल्म को देखकर दर्शकों को मानो एक ताज़गी का अहसास होता है।
+",The viewer does say that watching this film feels refreshing to the audience,TRUE
+" हिंदी फिल्मों में मनोरंजन की आक्रामक धूप से तिलमिलाए दर्शकों के लिए यह ठंडी छांव और बार की तरह है
+","इस फिल्म को देखकर दर्शकों को और भी ज्यादा तिलमिला देती है।
+","The user says that watching this film does not irritate them even more but gives them relief
+",FALSE
+" हिंदी फिल्मों में मनोरंजन की आक्रामक धूप से तिलमिलाए दर्शकों के लिए यह ठंडी छांव और बार की तरह है
+","इस फिल्म के निर्देशक ने पहले भी कई सफल कॉमेडी फिल्में बनाई हैं।
+",The viewer does not mention about any prior work of the director ,not-given
+"‘नूर’ में बतौर अभिनेत्री सोनाक्षी सिन्‍हा कुछ नया करती हैं
+","""नूर"" में सोनाक्षी सिन्हा का अभिनय उल्लेखनीय नहीं है और उसमें नवीनता का अभाव है","The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"‘नूर’ में बतौर अभिनेत्री सोनाक्षी सिन्‍हा कुछ नया करती हैं
+","सोनाक्षी सिन्हा ने ""नूर"" में ज़बरदस्त प्रदर्शन किया है","The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"‘नूर’ में बतौर अभिनेत्री सोनाक्षी सिन्‍हा कुछ नया करती हैं
+","""नूर"" में सोनाक्षी सिन्हा का अभिनय पूर्वानुमानित है और प्रभावित करने में विफल रहता है","The review indicates that Sonakshi Sinha brings something new to the table in ""Noor"". Hence the statement contradicts the review. ",FALSE
+"‘नूर’ में बतौर अभिनेत्री सोनाक्षी सिन्‍हा कुछ नया करती हैं
+",सोनाक्षी सिन्हा द्वारा पेश किए गए नए पहलू ने दर्शकों को काफी पसंद किया है,The review doesn't really describe the effect of Sonakshi Sinha's performance in overall experience of the movie.,not-given
+"‘बाहुबली 2’ भव्‍यता और विशालता में पहली से ज्‍यादा बड़ी और चमकदार हो गई हैं
+","""बाहुबली 2"" पहली किस्त की भव्यता और विशालता से कहीं अधिक है","The statement aligns with the sentiment of the review. The reviewer directly states that Baahubali 2 has become bigger than the first grandeur,  so the statement is true.",TRUE
+"‘बाहुबली 2’ भव्‍यता और विशालता में पहली से ज्‍यादा बड़ी और चमकदार हो गई हैं
+","""बाहुबली 2"" पहली किस्त की तुलना में छोटे पैमाने पर है","The statement is contratry to the sentiment of the review, since the review does not provide any indication that the music directors enhanced the quality of music.",FALSE
+"‘बाहुबली 2’ भव्‍यता और विशालता में पहली से ज्‍यादा बड़ी और चमकदार हो गई हैं
+","""बाहुबली 2"" पहली किस्त की भव्यता और विशालता को पार करने में विफल रही","The statement is contratry to the sentiment of the review, since the review does not provide any indication that the music directors enhanced the quality of music.",FALSE
+"‘बाहुबली 2’ भव्‍यता और विशालता में पहली से ज्‍यादा बड़ी और चमकदार हो गई हैं
+","""बाहुबली 2"" की भव्यता और विशालता में हुई बढ़ोतरी",The review doesn't describe the increase in greandeur or vastness or the overall film experience.,not-given
+"अक्षय कुमार के चरित्र को स्टाइल देने में सफलता मिली है
+","अक्षय कुमार के चरित्र को बहुत ही स्टाइलिश तरीके से प्रस्तुत किया गया है
+",The user does say that Akshay Kumar's character has been presented in a very stylish manner. ,TRUE
+"अक्षय कुमार के चरित्र को स्टाइल देने में सफलता मिली है
+",अक्षय कुमार के चरित्र को स्टाइल देने का प्रयास विफल रहा है। ,The user does not state that the attempt to style Akshay Kumar's character has failed but says the opposite,FALSE
+"अक्षय कुमार के चरित्र को स्टाइल देने में सफलता मिली है
+",अक्षय कुमार के चरित्र को स्टाइल देने के लिए हॉलीवुड से देसिग्नेर्स को बुलाया गया है । ,There is nothing said in the statement regarding bringing designers from hollywood for this film,not-given
+"अक्षय कुमार के चरित्र को स्टाइल देने में सफलता मिली है
+",कारन जोहर ने इस फिल्म की कपड़ों को स्टाइल किया है।,The user doesnot mention anything about Karan Johar styling in the movie,not-given
+"अगर डायरेक्टर बार - बार हीरो राम द्वारा घर की छत पर चढ़ संस्कृत में श्लोक बोलने की बजाएं मां - बेटे के रिश्तों पर ध्यान केंद्रित करते तो बेहतर रहता। वहीं , जब निर्माता का सगा भाई फिल्म का हीरो है तो उसे ज्यादा फुटेज देने के लिए कई दूसरे पात्रों को उभरने न देना फिल्म का कमजोर पक्ष है। 
+",काफ़ी किरदारों का कैरेक्टर डेवलपमेंट धंग से नहीं किया गया है,"The review says that there was not enough room for the emergence of the rest of the characters, which makes the statement true.",TRUE
+"अगर डायरेक्टर बार - बार हीरो राम द्वारा घर की छत पर चढ़ संस्कृत में श्लोक बोलने की बजाएं मां - बेटे के रिश्तों पर ध्यान केंद्रित करते तो बेहतर रहता। वहीं , जब निर्माता का सगा भाई फिल्म का हीरो है तो उसे ज्यादा फुटेज देने के लिए कई दूसरे पात्रों को उभरने न देना फिल्म का कमजोर पक्ष है। 
+",राम पर ज़रूरत से ज़्यादा ध्यान देने की वजह से पूरी मूवी खराब हो गई,"Though the review says Ram was focused on more, it didn't mention anything about the success or the failure of the movie because of that.",not-given
+"अगर डायरेक्टर बार - बार हीरो राम द्वारा घर की छत पर चढ़ संस्कृत में श्लोक बोलने की बजाएं मां - बेटे के रिश्तों पर ध्यान केंद्रित करते तो बेहतर रहता। वहीं , जब निर्माता का सगा भाई फिल्म का हीरो है तो उसे ज्यादा फुटेज देने के लिए कई दूसरे पात्रों को उभरने न देना फिल्म का कमजोर पक्ष है। 
+",उनके रिश्ते पर गौर करना बेहतर होता मूवी के लिए,The review expresses the sentiment that the mother-son relationship should have been depicted more.,TRUE
+"अगर डायरेक्टर बार - बार हीरो राम द्वारा घर की छत पर चढ़ संस्कृत में श्लोक बोलने की बजाएं मां - बेटे के रिश्तों पर ध्यान केंद्रित करते तो बेहतर रहता। वहीं , जब निर्माता का सगा भाई फिल्म का हीरो है तो उसे ज्यादा फुटेज देने के लिए कई दूसरे पात्रों को उभरने न देना फिल्म का कमजोर पक्ष है। 
+",ये अच्छा होता अगर मूवी राम पर ज़्यादा फोकस करती. ,"The review already says that the hero Ram was focused on more, instead the relationship of mother-son should have received more focus.",FALSE
+"अदनान सिद्दीकी की स्‍क्रीन मौजूदगी जादुई है
+",अदनान सिद्दीकी एक अच्छे अभिनेता हैं,"Since the review states that Adnan Siddiqui's screen presence is magical, it can be inferred that he is in general a good actor.",TRUE
+"अदनान सिद्दीकी की स्‍क्रीन मौजूदगी जादुई है
+",आदिल सिद्दीकी ने अपनी भूमिका अच्छे तरीके से निभायी है,Nothing in the review mentions anybody named Adil Siddique.,not-given
+"अदनान सिद्दीकी की स्‍क्रीन मौजूदगी जादुई है
+",अदनान सिद्दीकी के अभिनय की वजह से फिल्म अच्छी है,"Nothing about any film of Adnan Siddiqui's is mentioned in the review, so the statement is false.",FALSE
+"अदनान सिद्दीकी की स्‍क्रीन मौजूदगी जादुई है
+",अदनान सिद्दीकी दर्शकों को अपनी ओर आकर्षित करना जानते हैं,The review only says that the screen presence of Adnan is magical. This can be very subjective and cannot be inferred if he in general know how to attract the audience. Also nothing in the review establishes a direct relation between Adnan and his ability to attract the audience. So the statement is not-given.,not-given
+"अनुराग बासु की ‘जग्गा जासूस’ जिंदगी, जादू, रोमांच की रहस्यमयी व पेचीदा कायनात गढ़ने का एक सराहनीय प्रयास है
+",अनुराग बासु एक अच्छी फिल्म बनाने में असफल रहे,The review is only appreciating the efforts of Anurag Basu; it doesn't specify his success or failure in making the film a hit.,not-given
+"अनुराग बासु की ‘जग्गा जासूस’ जिंदगी, जादू, रोमांच की रहस्यमयी व पेचीदा कायनात गढ़ने का एक सराहनीय प्रयास है
+",अनुराग बसु एक अच्छी फिल्म बनाने में सफल रहे,The review is only appreciating the efforts of Anurag Basu; it doesn't specify his success or failure in making the film a hit.,not-given
+"अनुराग बासु की ‘जग्गा जासूस’ जिंदगी, जादू, रोमांच की रहस्यमयी व पेचीदा कायनात गढ़ने का एक सराहनीय प्रयास है
+",अच्छी फिल्म बनाने के लिए अनुराग बसु के प्रयासों की सराहना की जाती है,The label is 'true' since the review says the efforts of Anurag Basu were commendable. ,TRUE
+"अनुराग बासु की ‘जग्गा जासूस’ जिंदगी, जादू, रोमांच की रहस्यमयी व पेचीदा कायनात गढ़ने का एक सराहनीय प्रयास है
+",अनुराग बसु फिल्म में दिलचस्प तत्व लाते हैं,The review explicitly mentions what the interesting elements in the file are.,TRUE
+"इन दृश्यों में फिल्म हंसाती भी है
+",ये दृश्यों दर्शकों को हसाती ह।  ,The user does state that the scenes make the audience laugh,TRUE
+"इन दृश्यों में फिल्म हंसाती भी है
+","इन दृश्यों में हास्य का कोई तत्व नहीं है, और दर्शकों को यह बोरिंग लगता है। ",The user does not say that there is no element of humor in these scenes but says the opposite,FALSE
+"इन दृश्यों में फिल्म हंसाती भी है
+",इन दृश्यों की वजह से फिल्म को सर्वश्रेष्ठ कॉमेडी फिल्म का पुरस्कार मिला है। ,The user does not state anything about the movie receiving any awards.,not-given
+"इन दृश्यों में फिल्म हंसाती भी है
+",इस फिल्म में राज कपूर ने एक कैमिया रोल किया ह।,The user does not mention anything about the cameo roll in the movie,
+"उनकी सही टाइमिंग और कॉमिकल अप्रोच से फिल्म कहीं-कहीं इटरेस्टिंग हो जाती ह
+","उनकी बेजोड़ कॉमेडी टाइमिंग और मजेदार अंदाज से फिल्म के कुछ खास पल बहुत ही दिलचस्प बन जाते हैं।
+","The user does appriciate the impeccable comedic timing and humorous approach of the film.
+
+",TRUE
+"उनकी सही टाइमिंग और कॉमिकल अप्रोच से फिल्म कहीं-कहीं इटरेस्टिंग हो जाती ह
+","इस फिल्म में कॉमिकल प्रदर्शन सही समय पर की गई है।
+","The user does appriciate the well-timed comical scenes in the film.
+
+",TRUE
+"उनकी सही टाइमिंग और कॉमिकल अप्रोच से फिल्म कहीं-कहीं इटरेस्टिंग हो जाती ह
+","उनकी कॉमेडी टाइमिंग हमेशा गलत होती है।
+",The user likes the comical timings in the film ant the statement is the complete opposite of this statement.,FALSE
+"उनकी सही टाइमिंग और कॉमिकल अप्रोच से फिल्म कहीं-कहीं इटरेस्टिंग हो जाती ह
+",उनकी किरदार के लिए कपड़ों का चुनाव अच्छा है। ,The viewer does not mention anything about the choise of costumes in the statement,not-given
+"उनके बीच की केमिस्‍ट्री पर्दे पर दिखती हैं
+",अभिनेताओं के बीच में केमिस्ट्री स्क्रीन पर नहीं दिखती है,"The statement is contratry to the review, so the statement is false.",FALSE
+"उनके बीच की केमिस्‍ट्री पर्दे पर दिखती हैं
+",अभिनेताओं के बीच की केमिस्ट्री फिल्म के अनुभव को बढ़ाती है,The review doesn't say anything about the movie experience from the perspective of the audience because of the chemistry between the actors. So the statement is not-given.,not-given
+"उनके बीच की केमिस्‍ट्री पर्दे पर दिखती हैं
+",अभिनेताओं के बीच अतिरिक्त केमिस्ट्री की जरूरत नहीं है,The review doesn't say anything about the chemistry between the actors being just the right amount to make this inference. So the statement is not-given.,not-given
+"उनके बीच की केमिस्‍ट्री पर्दे पर दिखती हैं
+",अभिनेता फिल्म का मुख्य आकर्षण हैं,"Nothing is said about what is the main attraction of the film in the review, so the statement is not-given.",not-given
+"उन्हें कुछ चटपटे संवाद भी मिले हैं
+",उनके संवाद वाकई मसालेदार हैं।,The user does feel that his conversation was interesting,TRUE
+"उन्हें कुछ चटपटे संवाद भी मिले हैं
+",उनकी पंक्तियाँ बिलकुल भी दमदार नहीं थीं।,the user says that his conversation was interesting which is the opposite to this statement,FALSE
+"उन्हें कुछ चटपटे संवाद भी मिले हैं
+",उनकी अदाकारी में गहराई की कमी है।,The user doesnot mention anything about the depth in the acting,not-given
+"उन्हें कुछ चटपटे संवाद भी मिले हैं
+",उनका डांस नंबर धमाकेदार था।,the user doesnot mention anything about the dance,not-given
+"उन्होंने उसके रुआब और शबाब को संजीदगी से पर्दे पर उतारा है
+",अभिनेता स्क्रीन पर चरित्र के सार को प्रभावी ढंग से चित्रित करने में विफल रहता है,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"उन्होंने उसके रुआब और शबाब को संजीदगी से पर्दे पर उतारा है
+",अभिनेता सफलतापूर्वक चरित्र के सार को पर्दे पर उतारता है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"उन्होंने उसके रुआब और शबाब को संजीदगी से पर्दे पर उतारा है
+",अभिनेता के पास चरित्र के सार को स्क्रीन पर चित्रित करने में प्रामाणिकता का अभाव है,The statemnet indicating lack of authenticity contradicts the review which states that the actor has potrayed the character's  essence with life.,FALSE
+"उन्होंने उसके रुआब और शबाब को संजीदगी से पर्दे पर उतारा है
+",अभिनेता द्वारा निभाए गए किरदार के सार ने दर्शकों को मंत्रमुग्ध कर दिया है,The review doesn't really say anything of the performance of the actor having a huge impact on the overall impression or performace of the movie in the Bollywood industry.,not-given
+"उन्होंने किरदार के साथ पूरा न्याय किया है
+",उसने किरदार में अपनी बेहतरीन कलाकारी दिखाई,The review says that the actor has done complete justice to the role.,TRUE
+"उन्होंने किरदार के साथ पूरा न्याय किया है
+",उसने किरदार के लिए खुद को पूरा समर्पित कर लिया था,The review says that the actor has done complete justice to the role.,TRUE
+"उन्होंने किरदार के साथ पूरा न्याय किया है
+",समीक्षक का कहना है कि भूमिका में फिट बैठने के लिए उन्होंने काफी मेहनत की है,The review doesn't mention anything about the excercise routine of the actor for the sake of the character.,not-given
+"उन्होंने किरदार के साथ पूरा न्याय किया है
+",अभिनेता ने खुद को किरदार के लिए पूरा समर्पित नहीं किया है,The review says that the actor has done complete justice to the role.,FALSE
+"उन्होंने किरदार को शिद्दत से निभाया है
+",अभिनेता ने खुद को किरदार की गहराई में डूबो लिया था,The review says the actor played the character with passion.,TRUE
+"उन्होंने किरदार को शिद्दत से निभाया है
+",अभिनेता ने किरदार के लिए मेहनत नहीं की।,The review says the actor played the character with passion. So it can be inferred that the actor worked hard for the role.,FALSE
+"उन्होंने किरदार को शिद्दत से निभाया है
+",अभिनेता समय पर नहीं आते थे।,"Nothing about the punctuality of the actor was mentioned in the review, so the statement is not-given.",not-given
+"उन्होंने किरदार को शिद्दत से निभाया है
+",अभिनेता डायरेक्टर के साथ मिलकर काम नहीं कर रहे थे।,"Nothing about the actor's attitude towards the director was mentioned, so the statement is not-given.",not-given
+"उन्होंने शाहिद के डर, खौफ, संघर्ष, जिद और जीत को बखूबी व्यक्त किया है","उपयोगकर्ता को लगता है की यहाँ पे ""पायल"" की भावनाओं को दर्शाया गया है। 
+",The user states that the emotions of Shahid were being depicted well and not Payals'.,FALSE
+"उन्होंने शाहिद के डर, खौफ, संघर्ष, जिद और जीत को बखूबी व्यक्त किया है",शाहिद के कईं सरे भवान्यें ह। ,The user does list a few emotions that Shahid felt.,TRUE
+"उन्होंने शाहिद के डर, खौफ, संघर्ष, जिद और जीत को बखूबी व्यक्त किया है
+","उपयोगकर्ता को लगता है की कोई ने ""शाहिद"" के भावनाओं को अचे से दिखाया है। 
+",The user does state that Shahid's emotions were depicted well,TRUE
+"उन्होंने शाहिद के डर, खौफ, संघर्ष, जिद और जीत को बखूबी व्यक्त किया है","उपयोगकर्ता को लगता है की शाहिद बहुत बड़ा बहादुर है। 
+",The user does not state about the strength of Shahid,not-given
+"उन्‍होंने सभी किरदारों और उन्‍हें निभा रहे कलाकारों को अपनी तरह से खुलने का मौका दिया है। यही इस फिल्‍म की खूबसूरती है
+",फ़िल्म में पात्रों को विकसित होने का अवकाश नहीं दिया गया है,The statement is false because the review specifies that the actors were given the opportunity to portray and develop the characters in their own ways. ,FALSE
+"उन्‍होंने सभी किरदारों और उन्‍हें निभा रहे कलाकारों को अपनी तरह से खुलने का मौका दिया है। यही इस फिल्‍म की खूबसूरती है
+",निर्देशक ने अभिनेताओं को अपने पात्रों को स्वतंत्र रूप से अभिनय करने की अनुमति दी है,"The statement aligns with the review, so the statement is true.",TRUE
+"उन्‍होंने सभी किरदारों और उन्‍हें निभा रहे कलाकारों को अपनी तरह से खुलने का मौका दिया है। यही इस फिल्‍म की खूबसूरती है
+",फिल्म दिलचस्प नहीं है,"Nothing about the overall interestingness of the film was given in the review, so the statement is not-given. The review only talks about the beauty of the film in relation to the oppotunity of the actors to freely play them.",not-given
+"उन्‍होंने सभी किरदारों और उन्‍हें निभा रहे कलाकारों को अपनी तरह से खुलने का मौका दिया है। यही इस फिल्‍म की खूबसूरती है
+",किरदारों के प्रति निर्देशक का नजरिया फ़िल्म में खूबसूरती लाता है,The statement is true because the review says the director allowed the characters to open up which brought beauty to the film.,TRUE
+"उसी प्रकार की कृत्रिमता का एहसास 'जंजीर' देख कर हो सकता है
+",इस फिल्म में ज़ंजीर मूवी की जलक नज़र आता ह। ,"The viewer does state that the movie's experience can be similar to the one while watching the movie ""Zanjeer""",TRUE
+"उसी प्रकार की कृत्रिमता का एहसास 'जंजीर' देख कर हो सकता है
+",जंजीर' को देखते समय उसमें उपस्थित कृत्रिमता बिल्कुल स्पष्ट रूप से दर्शकों को महसूस होती है।,"The viewer does state that while watching 'Zanjeer', the artificiality present in it is clearly felt by the viewers.",TRUE
+"उसी प्रकार की कृत्रिमता का एहसास 'जंजीर' देख कर हो सकता है
+",यह फिल्म बेहद यथार्थवादी है।,The user does not say that the movie is natural but the opposite,FALSE
+"उसी प्रकार की कृत्रिमता का एहसास 'जंजीर' देख कर हो सकता है
+","जंजीर' फिल्म एक तमिल फिल्म है।
+",The viewer doesnot mention anything about the language of the movie,not-given
+"ऐसी फिल्में कांसेप्ट और विषय के रूप में अच्छी और आकर्षक लगती हैं
+",समान विषयों वाली फिल्में अनाकर्षक होती हैं और उनमें दृश्य आकर्षण का अभाव होता है,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"ऐसी फिल्में कांसेप्ट और विषय के रूप में अच्छी और आकर्षक लगती हैं
+",समीक्षक ने फिल्म का आनंद लिया,The statement dosent really state if the audience enjoyed or disliked the movie hence the statement is not-given.,not-given
+"ऐसी फिल्में कांसेप्ट और विषय के रूप में अच्छी और आकर्षक लगती हैं
+",फिल्म एक आकर्षक अवधारणा और विषय वस्तु को दर्शाती है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"ऐसी फिल्में कांसेप्ट और विषय के रूप में अच्छी और आकर्षक लगती हैं
+",आकर्षक अवधारणा और विषय वस्तु के बावजूद फिल्म में सार की कमी है,"The statement dosen't really provide any indication that the film lack substance, focusing just on visual appeal.",FALSE
+"कलाकारों के कपड़ों से लेकर पृष्ठभूमि की प्रापर्टी तक में यह कंटीन्यूटी बनी रहती 
+","इस फिल्म में कपड़ों से लेकर पृष्ठभूमि तक, हर चीज़ में सुसंगतता देखी जा सकती है, जो दृश्यों को और भी वास्तविक बनाती है।
+","The user does mention that In this film, consistency can be seen in everything from costumes to background.",TRUE
+"कलाकारों के कपड़ों से लेकर पृष्ठभूमि की प्रापर्टी तक में यह कंटीन्यूटी बनी रहती 
+",इस फिल्म की कॉन्टिनुइटी बहुत अच्छा है। ,The viewer does say that the consistency in this film is being maintained properly,TRUE
+"कलाकारों के कपड़ों से लेकर पृष्ठभूमि की प्रापर्टी तक में यह कंटीन्यूटी बनी रहती 
+","फिल्म में कपड़ों और पृष्ठभूमि में बिलकुल भी संगति नहीं है
+",The viewer does not say that there is no consistency in costumes and background in the film but says the opposite,FALSE
+"कलाकारों के कपड़ों से लेकर पृष्ठभूमि की प्रापर्टी तक में यह कंटीन्यूटी बनी रहती 
+",इस फिल्म को इंग्लिश में भी डब किया गया है।,There is no reference to the movie being dubbed in english in the statement,not-given
+"कहानी की दृश्‍यात्‍मक अभिव्‍यंजना श्रेष्‍ठ और अतुलनीय है
+",कहानी की दृश्य अभिव्यक्ति अन्य फिल्मों की तुलना में कमजोर और घटिया है,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"कहानी की दृश्‍यात्‍मक अभिव्‍यंजना श्रेष्‍ठ और अतुलनीय है
+",कहानी की दृश्य अभिव्यक्ति औसत है और अन्य फिल्मों से तुलनीय है,"The statement is contratry to the sentiment of the review, since the review depicts the visual expression to be exquisite but not average.",FALSE
+"कहानी की दृश्‍यात्‍मक अभिव्‍यंजना श्रेष्‍ठ और अतुलनीय है
+",कहानी की दृश्य अभिव्यक्ति असाधारण है और अन्य फिल्मों से अलग है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"कहानी की दृश्‍यात्‍मक अभिव्‍यंजना श्रेष्‍ठ और अतुलनीय है
+",कहानी की दृश्य अभिव्यक्ति घटिया है और प्रभावित करने में विफल रहती है,"The statement is contratry to the sentiment of the review, since the review depicts the visual expression to be exquisite but not of low quality.",FALSE
+"कहानी बड़ी होशियारी से अपनी अपील को बच्चों के मिजाज से उड़ान भरते हुए युवा व परिपक्‍व सोच-अप्रोच का विस्तार प्रदान करती है
+",फिल्म स्लाइस ऑफ लाइफ जॉनर की है,The review doesn't establish which genre the movie belongs to explicitly.,not-given
+"कहानी बड़ी होशियारी से अपनी अपील को बच्चों के मिजाज से उड़ान भरते हुए युवा व परिपक्‍व सोच-अप्रोच का विस्तार प्रदान करती है
+",यह फिल्म एक बच्चे के किशोर बनने की भावनाओं को समझाती है,Nothing about a child becoming a teenager was mentioned.,FALSE
+"कहानी बड़ी होशियारी से अपनी अपील को बच्चों के मिजाज से उड़ान भरते हुए युवा व परिपक्‍व सोच-अप्रोच का विस्तार प्रदान करती है
+",फिल्म में बचकानी भावनाओं का युवा स्वरूप दिखाया गया है,The review says the story cleverly adapts a child's temperment to youthful and mature outlook.,TRUE
+"कहानी बड़ी होशियारी से अपनी अपील को बच्चों के मिजाज से उड़ान भरते हुए युवा व परिपक्‍व सोच-अप्रोच का विस्तार प्रदान करती है
+",फिल्म केवल बच्चों के लिए है,The review doesn't mention anything about who the target audience for the film are.,not-given
+"का एक जबरदस्त आकर्षण चुलबुल (ऋषि कपूर) और बुलबुल (नीतू सिंह) की जोड़ी है
+ फिल्म के ग्रेस मा‌र्क्स हैं
+","दर्शक को लगता है की चुलबुल और बुलबुल की जोड़ी फिल्म को एक अलग चमक देती है।
+",The user does feel that the pair of Chulbul and Bulbul adds a unique charm to the film.,TRUE
+"का एक जबरदस्त आकर्षण चुलबुल (ऋषि कपूर) और बुलबुल (नीतू सिंह) की जोड़ी है
+ फिल्म के ग्रेस मा‌र्क्स हैं
+","उपयोगकर्ता को लगता है की चुलबुल और बुलबुल की जोड़ी फिल्म में कोई खास असर नहीं डालती।
+","The user does fees that the pair of Chulbul and Bulbul make any significant impact in the film which is the opposite of this statement
+",FALSE
+"का एक जबरदस्त आकर्षण चुलबुल (ऋषि कपूर) और बुलबुल (नीतू सिंह) की जोड़ी है
+ फिल्म के ग्रेस मा‌र्क्स हैं
+",उपयोगकर्ता को लगता है की चुलबुल और बुलबुल की कहानी में नए ट्विस्ट हैं। ,"The user does not state anything about twists in the story,",not-given
+"का एक जबरदस्त आकर्षण चुलबुल (ऋषि कपूर) और बुलबुल (नीतू सिंह) की जोड़ी है
+ फिल्म के ग्रेस मा‌र्क्स हैं
+","दर्शक को लगता है की ऋषि कपूर और नीतू सिंह की जोड़ी ने फिल्म को खास बना दिया है, वे फिल्म के स्टार आकर्षण हैं।",The user feels that Rishi Kapoor and Neetu Singh's pairing has made the film special and they are the star attraction of the movie,TRUE
+"कुछ ही दृश्यों में इमरान खान की मेहनत सफल होती दिखती है
+","इमरान खान की मेहनत कुछ दृश्यों में स्पष्ट रूप से दिखती है।",The user does say that Imran Khan's hard work is clearly visible in some scenes. ,TRUE
+"कुछ ही दृश्यों में इमरान खान की मेहनत सफल होती दिखती है
+",इमरान खान की मेहनत कहीं भी सफल नहीं होती।,The user does not say that Imran Khan's hard work never pays off but the opposite,FALSE
+"कुछ ही दृश्यों में इमरान खान की मेहनत सफल होती दिखती है
+",इस फिल्म में करीना कपूर ने हीरोइन की किरदार निभाई ह। ,The user does not say anything about the actress of the film,not-given
+"कुछ ही दृश्यों में इमरान खान की मेहनत सफल होती दिखती है
+",इमरान हाश्मी इस फिल्म के हीरो है।,The name of the hero of the Film is not mentioned in the sentence,not-given
+"कैमरे के सामने उनका गहन आत्मविश्वास मुखर रहता है
+",उपयोगकर्ता को लगता है की उनका आत्मविश्वास कैमरे के सामने ठीक नजर आता है।,The user does state that his confidence before camera can be clearly witnessed ,TRUE
+"कैमरे के सामने उनका गहन आत्मविश्वास मुखर रहता है
+",दर्शक को लगता है की कैमरे के सामने वे आत्मविश्वास में कमी दिखाते हैं।,the user sates that his confidence is being witnessed in front of the camera which is the complete opposite to this statement,FALSE
+"कैमरे के सामने उनका गहन आत्मविश्वास मुखर रहता है
+","उपयोगकर्ता को लगता है की उनकी अभिनय प्रतिभा का काफी विकास हुआ है।
+",the user doesnot atate anything about the improvement in his acting,not-given
+"कैमरे के सामने उनका गहन आत्मविश्वास मुखर रहता है
+",वे कैमरे के सामने बहुत आत्मविश्वासी नजर आते हैं।,The user does state that he looks confident infront of the camera,TRUE
+"क्लाइमेक्स भी बेवजह खींचा गया महसूस होता है। 
+",क्लाइमेक्स ज़रूरत से ज़्यादा ही लंबा है,The review states that the climax feels prolonged without any reason.,TRUE
+"क्लाइमेक्स भी बेवजह खींचा गया महसूस होता है। 
+",क्लाइमेक्स में काफ़ी इंटरेस्टिंग सस्पेंस था जिसकी वजह से दर्शक काफ़ी उत्सुक थे,"To the contrary of what the statement is saying, the review says that the climax feels unnecesarily prolonged, meaning the audience could not have been excited.",FALSE
+"क्लाइमेक्स भी बेवजह खींचा गया महसूस होता है। 
+",क्लाइमेक्स काफ़ी बोरिंग है,"Since the review says the climax feels unnecesarily prolonged, it is only natural that one would be bored by it.",TRUE
+"क्लाइमेक्स भी बेवजह खींचा गया महसूस होता है। 
+",क्लाइमेक्स स्टोरी के अलग-अलग हिस्सों को मिलाकर बनाया है,Nothing about what elements are involved in the climax is written in the review.,not-given
+"खास कर जू जू और माटिन बेहद नैचुरल और दिलचस्‍प हैं
+",जू जू और माटिन के किरदार दिलचस्प हैं,"The review says the same, so the statement is true.",TRUE
+"खास कर जू जू और माटिन बेहद नैचुरल और दिलचस्‍प हैं
+",फ़िल्म में केवल जूजू और माटिन  दिलशाद के दिलचस्प किरदार हैं,"Nothing about other characters was mentioned in the review, so this cannot be inferred. Neither did the review spcifically mention that only these two were interesting characters. So the statement is not-given.",not-given
+"खास कर जू जू और माटिन बेहद नैचुरल और दिलचस्‍प हैं
+",जूजू और माटिन  ऐसे पात्र हैं जो केवल नैचुरल और दिलचस्प हैं,"The review says they are natural and interesting but it doesn't if they are only natural and interesting, so the statement is not-given.",not-given
+"खास कर जू जू और माटिन बेहद नैचुरल और दिलचस्‍प हैं
+",माटिन  जू जू के साथ-साथ एक स्वाभाविक और आकर्षक अभिनेता हैं,"The review doesn't say whether the characters are charming as well, so the statement is not-given.",not-given
+"गानों के बोल और सीन के फिल्माने में उपयुक्त गहराई झलकती है
+",फिल्म का संगीत और गीत फिल्म को और दिलचस्प बनाते हैं,Nothing about the aspect of interestingness was mentioned in the review. It only talked about the depth reflected in the movie. So the statement is not-given.,not-given
+"गानों के बोल और सीन के फिल्माने में उपयुक्त गहराई झलकती है
+",केवल फिल्म का संगीत और कैमरा वर्क सराहनीय है,Nothing about only those two aspects being the commendable works in the film were mentioned.,FALSE
+"गानों के बोल और सीन के फिल्माने में उपयुक्त गहराई झलकती है
+",फिल्म में सिर्फ कैमरावर्क अच्छा है,"The review says that along with camera work, music was also good. So the statement is false.",FALSE
+"गानों के बोल और सीन के फिल्माने में उपयुक्त गहराई झलकती है
+",संगीतकार और कैमरामैन ने फिल्म में बहुत अच्छा काम किया है,"Nothing about the quality of the work of the people involved in making the movie was given explicitly in the review, so the statement is not-given.",not-given
+"गुड्डी के रूप में एक पतिव्रता नारी को तन्‍वी आजमी ने बखूबी चित्रित किया है
+",तन्वी आजमी गुड्डी के किरदार के लिए अच्छी थी।,"Since the review says that Tanvi Azmi has brilliantly portrayed the character of Guddu, it is a fair inference to make that she was good for the character of Guddu.",TRUE
+"गुड्डी के रूप में एक पतिव्रता नारी को तन्‍वी आजमी ने बखूबी चित्रित किया है
+",गुड्डी एक किरदार है जिसे मर्दों से दबने से नफ़रत है,Nothing about the traits of the character Guddu is mentioned. So the statement is not-given.,not-given
+"गुड्डी के रूप में एक पतिव्रता नारी को तन्‍वी आजमी ने बखूबी चित्रित किया है
+",गुड्डी एक वफादार औरत है और वह एक पतिव्रता का प्रतीक है,Nothing about the traits of the character Guddu is mentioned. So the statement is not-given.,not-given
+"गुड्डी के रूप में एक पतिव्रता नारी को तन्‍वी आजमी ने बखूबी चित्रित किया है
+",तन्वी आज़मी ने एक बिजनेसवुमन की भूमिका बखूबी निभाई,"According to the review, Tanvi played the role of a wife. So it is false that she played the role of a businesswoman.",FALSE
+"छोटे शहरों के लोगों की भोलेपन और मासूमियत को बखूबी उकेरा है
+",फिल्म छोटे शहर के लोगों की मासूमियत को अच्छे तरीके से पेश करती है।,The review says that the clean-hearted nature and innocence of small town people was beautifully portrayed. So the statement is true.,TRUE
+"छोटे शहरों के लोगों की भोलेपन और मासूमियत को बखूबी उकेरा है
+",छोटे शहर के लोग मासूम नहीं होते,"As per the review, the movie succeed in portraying the innocence of small town people, which means even if not all, most people of small towns could be innocent.",FALSE
+"छोटे शहरों के लोगों की भोलेपन और मासूमियत को बखूबी उकेरा है
+",छोटे शहर के लोग मासूम होते हैं,"As per the review, the movie succeed in portraying the innocence of small town people, which means even if not all, most people of small towns could be innocent.",TRUE
+"छोटे शहरों के लोगों की भोलेपन और मासूमियत को बखूबी उकेरा है
+",फिल्म छोटे शहर के लोगों की मासूमियत को दर्शाती है,"As per the review, the movie succeed in portraying the innocence of small town people.",TRUE
+"जुगनू की भूमिका में लोग उनके हुनर के नए पहलू से वाकिफ होंगे
+",जुगनू की भूमिका पहले से अज्ञात प्रतिभा को दर्शाती है,"The review says the same, so the statement is true.",TRUE
+"जुगनू की भूमिका में लोग उनके हुनर के नए पहलू से वाकिफ होंगे
+",जुगनू की परफॉर्मेंस से दर्शक निराश होंगे,"A new talent that is previously unknown will be known according to the review. This has a positive connotation in general, so the statement is highly likely to be false.",FALSE
+"जुगनू की भूमिका में लोग उनके हुनर के नए पहलू से वाकिफ होंगे
+",जुगनू की प्रतिभा हमेशा से अच्छी रही है,"Jugnu is a character in the film and nothing about jugnu's talents was given, so the statement is not-given.",not-given
+"जुगनू की भूमिका में लोग उनके हुनर के नए पहलू से वाकिफ होंगे
+",जुगनू का किरदार उनकी प्रतिभा के एक नए रूप को दिखाता है,"The statement aligns with the review, so the statement is true.",TRUE
+"जॉन अब्राहम ने किरदार की अपेक्षाओं पर खरा उतरने की कोशिश की है
+","जॉन अब्राहम ने अपने किरदार को निभाने के लिए पूरी मेहनत की है।
+",The viewer does state that John Abraham has put in a lot of effort to portray his character. ,TRUE
+"जॉन अब्राहम ने किरदार की अपेक्षाओं पर खरा उतरने की कोशिश की है
+",जॉन अब्राहम ने किरदार की अपेक्षाओं पर खरा उतरने का कोई प्रयास नहीं किया है। ,The viewer talks about the effort put in by John but this statement is the complete opposite ,FALSE
+"जॉन अब्राहम ने किरदार की अपेक्षाओं पर खरा उतरने की कोशिश की है
+",जॉन अब्राहम ने इस फिल्म में एक पुलिस अफसर का किरदार निभाया है। ,There is nothing mentioned in the statement about the role played by John Abraham,not-given
+"जॉन अब्राहम ने किरदार की अपेक्षाओं पर खरा उतरने की कोशिश की है
+",जॉन अब्राहम को इस फिल्म के लिए कई पुरस्कार मिले हैं। ,There is nothing mentioned about John Abraham receiving awards for this film.,not-given
+"टिफिन खोलते और व्यंजनों की सूंघते-छूते समय इरफान के चेहरे पर संचरित भाव अंतस की खुशी जाहिर करता है
+","टिफिन खोलते समय इरफान के चेहरे पर उभरते भाव दर्शकों को उनकी खुशी का एहसास कराते हैं।
+",The viewer does say that the expressions on Irrfan's face while opening the tiffin convey his joy to the audience.,TRUE
+"टिफिन खोलते और व्यंजनों की सूंघते-छूते समय इरफान के चेहरे पर संचरित भाव अंतस की खुशी जाहिर करता है
+","इस फिल्म में इरफान टिफिन से व्यंजनों को सूंघते और छूते है।  
+",The viewer does mention that Irrfan smells and touches the dishes from the tiffin.,TRUE
+"टिफिन खोलते और व्यंजनों की सूंघते-छूते समय इरफान के चेहरे पर संचरित भाव अंतस की खुशी जाहिर करता है
+","इरफान के चेहरे पर व्यंजनों को सूंघते और छूते समय कोई भी भाव नहीं दिखाई देता है।
+",The viewer states that there were a lot of expression visible on Irrfan's face while smelling and touching the dishes. Which is the opposite to this statement.,FALSE
+"टिफिन खोलते और व्यंजनों की सूंघते-छूते समय इरफान के चेहरे पर संचरित भाव अंतस की खुशी जाहिर करता है
+",इस दृश्य के लिए इरफान को विशेष रूप से रसोई कला की ट्रेनिंग दी गई थी। ,The viewer does not mention anything about Irrfan being specifically given culinary training for this scene.,not-given
+"थ्रिलर और कॉमेडी को संतुलित करते हुए बीच की राह पकड़ी गई हैं
+",थ्रिलर तत्व कॉमेडी पर हावी हो जाते हैं,"The review says there's a balance between the elements of thrill and comedy, so the statement is false.",FALSE
+"थ्रिलर और कॉमेडी को संतुलित करते हुए बीच की राह पकड़ी गई हैं
+",थ्रिलर और कॉमेडी के बीच संतुलन अच्छी तरह से निभाया गया है,"The statement aligns with the review, so the statement is true.",TRUE
+"थ्रिलर और कॉमेडी को संतुलित करते हुए बीच की राह पकड़ी गई हैं
+",थ्रिलर की बजाय कॉमेडी पर ज्यादा जोर दिया जा रहा है,"The review says there's a balance between the elements of thrill and comedy, so the statement is false.",FALSE
+"थ्रिलर और कॉमेडी को संतुलित करते हुए बीच की राह पकड़ी गई हैं
+",थ्रिलर तत्व हास्य तत्वों पर भारी पड़ते हैं,"The review says there's a balance between the elements of thrill and comedy, so the statement is false.",FALSE
+"देवकी व डीके के रोल में उन दोनों का काम सराहनीय है
+",देविकी और डीके की भूमिका निभाने में अभिनेताओं ने अच्छा काम किया,"The review states that the actors did a commendable job at portraying the characters, so the statement is true. ",TRUE
+"देवकी व डीके के रोल में उन दोनों का काम सराहनीय है
+",देविकी और डीके के किरदार दिलचस्प हैं,"It is only mentioned that the actors did a good job at portraying the characters but nothing is said about the nature of the characters themselves in the review, so the statement is not-given.",not-given
+"देवकी व डीके के रोल में उन दोनों का काम सराहनीय है
+",देवकी और डीके का किरदार निभाने वाले कलाकार बहुत अच्छे कलाकार हैं,"Nothing about the general reputation of the actors playing the characters Devaki and DK was mentioned, so the statement is not-given.",not-given
+"देवकी व डीके के रोल में उन दोनों का काम सराहनीय है
+",फिल्म में देवकी और डीके ही अच्छे किरदार हैं,"The review doesn't specify anything about other characters in relation to the characters Devaki and DK, so the statement is not-given.",not-given
+"निर्देशक अक्षय राय ने बंगाल की पृष्ठभूमि को अच्छी तरह रचा है
+",निर्देशक द्वारा बंगाल की पृष्ठभूमि का चित्रण गलत या ख़राब तरीके से किया गया है,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"निर्देशक अक्षय राय ने बंगाल की पृष्ठभूमि को अच्छी तरह रचा है
+",निर्देशक अक्षय राय ने फिल्म की पृष्ठभूमि में बंगाल के सार को प्रभावी ढंग से चित्रित किया है,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"निर्देशक अक्षय राय ने बंगाल की पृष्ठभूमि को अच्छी तरह रचा है
+",निर्देशक अक्षय राय के प्रयासों के बावजूद फिल्म में बंगाल की पृष्ठभूमि उल्लेखनीय नहीं है,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"निर्देशक अक्षय राय ने बंगाल की पृष्ठभूमि को अच्छी तरह रचा है
+",निर्देशक के काम के कारण फिल्म सफल है,The review doesn't describe the impact of the directors's efforts on the overall experience of the film.,not-given
+"निर्देशक की अपारंपरिक कास्टिंग से फिल्म की विश्वसनीयता बढ़ गई है
+","निर्देशक की अपारंपरिक कास्टिंग ने फिल्म को और अधिक रोचक बना दिया है।
+",The user does say that the director's unconventional casting has made the film more credible and interesting.,TRUE
+"निर्देशक की अपारंपरिक कास्टिंग से फिल्म की विश्वसनीयता बढ़ गई है
+",इस फिल्म में कास्टिंग की चॉइस निर्देशक की थी ।,The user does mention that the casting was the directors choice ,TRUE
+"निर्देशक की अपारंपरिक कास्टिंग से फिल्म की विश्वसनीयता बढ़ गई है
+","निर्देशक की अपारंपरिक कास्टिंग के कारण फिल्म की विश्वसनीयता पर बुरा प्रभाव पड़ा है।
+",The user does not say the director's unconventional casting has negatively impacted the film's credibility but the opposite.,FALSE
+"निर्देशक की अपारंपरिक कास्टिंग से फिल्म की विश्वसनीयता बढ़ गई है
+","निर्देशक की इस कास्टिंग विधि के लिए उन्हें कई पुरस्कार मिले हैं।
+",The viewer does not mention anything about the director has receiving any awards.,not-given
+"निर्देशक रवि उदयवार प्रभावी सीन गढ़ने में खासे सफल रहे हैं
+",निर्देशक उदयवर फिल्म में अच्छे दृश्य बनाते हैं,"According the the review, the director has been successful in creating effective scenes. So it is true that effective scenes are associated with being good scenes. ",TRUE
+"निर्देशक रवि उदयवार प्रभावी सीन गढ़ने में खासे सफल रहे हैं
+",फिल्म का निर्देशन अच्छा है,"Since the review says the film's scenes were effective and that the director was successful in making them effective, it can be safely inferred that the direction of the film was good.",TRUE
+"निर्देशक रवि उदयवार प्रभावी सीन गढ़ने में खासे सफल रहे हैं
+",फिल्म में कोई अच्छे दृश्य नहीं हैं,This goes totally against what the review says about the direction. So it is a false statement.,FALSE
+"निर्देशक रवि उदयवार प्रभावी सीन गढ़ने में खासे सफल रहे हैं
+",निर्देशक रवि उदयवर के काम के कारण फिल्म सफल है,"It is only mentioned that the director was successful in creating effective scenes. While it may be one of the factors of success for the film, the work of other teams could have played an equal role and nothing about that is mentioned in the review or nothing is directly said that it is because of the director's work that the movie succeeded. So the statement is not-given.",not-given
+"निस्संदेह परिणीति चोपड़ा और आयुष्मालन खुराना दोनों ने बेहतरीन अभिनय किया हैं
+",न तो परिणीति चोपड़ा और न ही आयुष्मान खुराना का अभिनय सराहनीय है,"The statement is contratry to the sentiment of the review, so the statement is false.",FALSE
+"निस्संदेह परिणीति चोपड़ा और आयुष्मालन खुराना दोनों ने बेहतरीन अभिनय किया हैं
+","एक अभिनेता उत्कृष्ट प्रदर्शन करता है, जबकि दूसरे के प्रदर्शन में कमी है",The statement is false because the review doesnot differentiate between the efforts of the actors and gives credit to both the actors equally.,FALSE
+"निस्संदेह परिणीति चोपड़ा और आयुष्मालन खुराना दोनों ने बेहतरीन अभिनय किया हैं
+",परिणीति चोपड़ा और आयुष्मान खुराना दोनों अपनी-अपनी भूमिकाओं में उत्कृष्ट हैं,"The statement aligns with the sentiment of the review, so the statement is true.",TRUE
+"निस्संदेह परिणीति चोपड़ा और आयुष्मालन खुराना दोनों ने बेहतरीन अभिनय किया हैं
+",दोनों कलाकारों के अभिनय की वजह से फिल्म सफल रही,The review doesn't describe the impact of the actor's efforts on the overall experience of the film.,not-given
+"फराज हैदर का विचार प्रशंसनीय है फिल्म गाने ही
+","उपयोगकर्ता को लगता है की फराज हैदर के विचारों की तारीफ करनी चाहिए, बढ़िया सोच लिए हैं फिल्म के गीतों में
+","The user does state that Faraz Haider's thoughts are commendable, and he has incorporated great ideas into the film's songs.",TRUE
+"फराज हैदर का विचार प्रशंसनीय है फिल्म गाने ही
+","उपयोगकर्ता को लगता है की फराज हैदर के विचार बिल्कुल भी प्रभावित नहीं करते, गाने तो बिलकुल ही बकवास हैं
+","The user doesnot state Faraz Haider's ideas don't impress at all, the songs are just terrible and states the opposite",FALSE
+"फराज हैदर का विचार प्रशंसनीय है फिल्म गाने ही
+","दर्शक को लगता है की फराज हैदर की फिल्म में कॉस्ट्यूम्स का काम लाजवाब है
+","The viewer doesnot state anything about the costume work in Faraz Haider's film,",not-given
+"फराज हैदर का विचार प्रशंसनीय है फिल्म गाने ही
+","दर्शक को लगता है की फराज हैदर का विचार निराशाजनक है, फिल्म ने मन नहीं भाया।",The user states that Faraz Haider's idea is nice and appealing to hime which is the opposite of this statement.),FALSE
